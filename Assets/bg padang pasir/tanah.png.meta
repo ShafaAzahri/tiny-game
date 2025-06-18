@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tanah_0: 1872936987617144572
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      batu besar_0: 4172280505499928067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

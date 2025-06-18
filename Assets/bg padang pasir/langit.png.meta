@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      langit_0: -7137977644022468153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
