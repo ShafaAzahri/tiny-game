@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      toppng.com-heart-pixel-png-pixel-heart-852x238_0: 8725521426990062916
+      toppng.com-heart-pixel-png-pixel-heart-852x238_1: 601655672470839841
+      toppng.com-heart-pixel-png-pixel-heart-852x238_2: -5735018570386361067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

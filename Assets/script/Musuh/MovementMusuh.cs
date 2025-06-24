@@ -51,7 +51,6 @@ public class MovementMusuh : MonoBehaviour
 
         // Inisialisasi health
         currentHealth = maxHealth;
-        Debug.Log($"[ENEMY HEALTH] {gameObject.name} health diinisialisasi: {currentHealth}/{maxHealth}");
 
         player = GameObject.FindWithTag("Player").transform; // Mengambil player berdasarkan tag
         mainCamera = Camera.main; // Mengambil referensi kamera utama
@@ -100,12 +99,6 @@ public class MovementMusuh : MonoBehaviour
     {
         float xDistance = Mathf.Abs(transform.position.x - player.position.x);
         isWithinXRange = xDistance <= maxXDistance;
-
-        // Debug log untuk monitoring
-        if (!isWithinXRange)
-        {
-            Debug.Log($"[X DISTANCE] {gameObject.name} terlalu jauh dari player di sumbu X! Jarak: {xDistance:F2}, Max: {maxXDistance}");
-        }
     }
 
     // Fungsi baru untuk menangani berhenti mengejar karena jarak X
@@ -122,8 +115,6 @@ public class MovementMusuh : MonoBehaviour
 
         // Musuh akan menghadap ke arah player meski tidak mengejar
         FacePlayer();
-
-        Debug.Log($"[X DISTANCE] {gameObject.name} berhenti mengejar karena jarak X terlalu jauh");
     }
 
     // Fungsi untuk menghadap player tanpa bergerak
@@ -226,8 +217,6 @@ public class MovementMusuh : MonoBehaviour
                 anim.SetTrigger("attack");  // Trigger animasi serangan
             }
 
-            Debug.Log($"[ENEMY ATTACK] {gameObject.name} menyerang pemain!");
-
             // Deteksi tabrakan jika musuh menyerang pemain
             Collider2D[] hitPlayers = Physics2D.OverlapCircleAll(transform.position, attackRange);
             foreach (Collider2D playerCollider in hitPlayers)
@@ -239,7 +228,6 @@ public class MovementMusuh : MonoBehaviour
                     if (playerMovement != null)
                     {
                         playerMovement.TakeDamage(attackDamage);  // Berikan damage ke pemain
-                        Debug.Log($"[ENEMY ATTACK] Pemain terkena damage {attackDamage} dari {gameObject.name}!");
                     }
                     break;  // Berhenti mencari setelah menemukan pemain
                 }
@@ -257,8 +245,6 @@ public class MovementMusuh : MonoBehaviour
         currentHealth -= damage;
         currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth); // Pastikan health tidak negatif
 
-        Debug.Log($"[ENEMY HEALTH] {gameObject.name} terkena damage {damage}! Health sekarang: {currentHealth}/{maxHealth}");
-
         // Trigger animasi hurt
         if (anim != null)
         {
@@ -270,66 +256,12 @@ public class MovementMusuh : MonoBehaviour
         {
             Die();
         }
-        else
-        {
-            // Tampilkan status health dalam persentase
-            float healthPercentage = (currentHealth / maxHealth) * 100f;
-            Debug.Log($"[ENEMY HEALTH] {gameObject.name} health tersisa: {healthPercentage:F1}%");
-            
-            // Warning jika health rendah
-            if (healthPercentage <= 30f)
-            {
-                Debug.LogWarning($"[ENEMY HEALTH] {gameObject.name} health kritis!");
-            }
-        }
-    }
-
-    // Fungsi untuk menyembuhkan musuh (jika diperlukan)
-    public void Heal(float healAmount)
-    {
-        if (isDead) return; // Jangan heal jika sudah mati
-
-        float oldHealth = currentHealth;
-        currentHealth += healAmount;
-        currentHealth = Mathf.Clamp(currentHealth, 0f, maxHealth); // Pastikan tidak melebihi max health
-
-        float actualHealing = currentHealth - oldHealth;
-        Debug.Log($"[ENEMY HEALTH] {gameObject.name} disembuhkan {actualHealing}! Health sekarang: {currentHealth}/{maxHealth}");
-    }
-
-    // Fungsi untuk menampilkan status health musuh
-    public void ShowHealthStatus()
-    {
-        float healthPercentage = (currentHealth / maxHealth) * 100f;
-        Debug.Log($"[ENEMY HEALTH] {gameObject.name} Status Health: {currentHealth}/{maxHealth} ({healthPercentage:F1}%)");
-    }
-
-    // Fungsi untuk mendapatkan current health
-    public float GetCurrentHealth()
-    {
-        return currentHealth;
-    }
-
-    // Fungsi untuk mendapatkan max health
-    public float GetMaxHealth()
-    {
-        return maxHealth;
-    }
-
-    // Fungsi untuk mengecek apakah musuh masih hidup
-    public bool IsAlive()
-    {
-        return !isDead;
     }
 
     // Fungsi untuk menangani kematian musuh
     private void Die()
     {
         isDead = true;  // Set status mati menjadi true
-        
-        Debug.Log("=== KEMATIAN MUSUH ===");
-        Debug.Log($"[HEALTH MUSUH] {gameObject.name} telah mati!");
-        Debug.Log("==================");
 
         // Hentikan semua gerakan
         rb.linearVelocity = Vector2.zero;
@@ -356,8 +288,6 @@ public class MovementMusuh : MonoBehaviour
     {
         yield return new UnityEngine.WaitForSeconds(2f); // Tunggu 2 detik
         
-        Debug.Log($"[ENEMY DEATH] {gameObject.name} akan dihancurkan...");
-        
         // Hancurkan GameObject musuh
         Destroy(gameObject);
     }
@@ -374,8 +304,6 @@ public class MovementMusuh : MonoBehaviour
         {
             enemyCollider.enabled = true;
         }
-        
-        Debug.Log($"[ENEMY HEALTH] {gameObject.name} health direset ke: {currentHealth}/{maxHealth}");
     }
 
     // FUNGSI BARU UNTUK MENGATUR X DISTANCE
@@ -384,7 +312,6 @@ public class MovementMusuh : MonoBehaviour
     public void SetMaxXDistance(float newMaxDistance)
     {
         maxXDistance = newMaxDistance;
-        Debug.Log($"[X DISTANCE] {gameObject.name} jarak X maksimum diubah ke: {maxXDistance}");
     }
 
     // Fungsi untuk mendapatkan jarak X saat ini ke player
@@ -401,7 +328,6 @@ public class MovementMusuh : MonoBehaviour
     public void SetUseXDistanceLimit(bool useLimit)
     {
         useXDistanceLimit = useLimit;
-        Debug.Log($"[X DISTANCE] {gameObject.name} sistem X distance limit: {(useLimit ? "AKTIF" : "NONAKTIF")}");
     }
 
     // Fungsi untuk mengecek apakah musuh dalam jangkauan X
@@ -413,16 +339,7 @@ public class MovementMusuh : MonoBehaviour
     // Fungsi untuk mendapatkan info musuh (debugging)
     public void GetEnemyInfo()
     {
-        Debug.Log($"=== {gameObject.name.ToUpper()} INFO ===");
-        Debug.Log($"Health: {currentHealth}/{maxHealth}");
-        Debug.Log($"Attack Damage: {attackDamage}");
-        Debug.Log($"Move Speed: {moveSpeed}");
-        Debug.Log($"Attack Range: {attackRange}");
-        Debug.Log($"Max X Distance: {maxXDistance}");
-        Debug.Log($"Current X Distance: {GetCurrentXDistance():F2}");
-        Debug.Log($"Within X Range: {isWithinXRange}");
-        Debug.Log($"Status: {(isDead ? "MATI" : "HIDUP")}");
-        Debug.Log("================================");
+        // Info yang sudah dihapus
     }
 
     // Visualisasi attack range dan X distance di Scene view (debugging)
@@ -442,25 +359,6 @@ public class MovementMusuh : MonoBehaviour
             Vector3 rightLimit = new Vector3(transform.position.x + maxXDistance, transform.position.y, transform.position.z);
             
             Gizmos.DrawLine(leftLimit, rightLimit);
-            
-            // Garis vertikal di batas kiri dan kanan
-            Gizmos.DrawLine(leftLimit + Vector3.up * 0.5f, leftLimit - Vector3.up * 0.5f);
-            Gizmos.DrawLine(rightLimit + Vector3.up * 0.5f, rightLimit - Vector3.up * 0.5f);
-            
-            // Jika player ada, tampilkan garis dari enemy ke player untuk visualisasi jarak
-            if (player != null)
-            {
-                float currentXDistance = Mathf.Abs(transform.position.x - player.position.x);
-                
-                // Jika dalam jangkauan, warna biru. Jika tidak, warna kuning
-                Gizmos.color = isWithinXRange ? Color.blue : Color.yellow;
-                
-                // Garis horizontal dari enemy ke player (hanya sumbu X)
-                Vector3 playerXPos = new Vector3(player.position.x, transform.position.y, transform.position.z);
-                Gizmos.DrawLine(transform.position, playerXPos);
-                
-                // Label jarak (tidak bisa ditampilkan dengan Gizmos, tapi bisa dilihat di debug log)
-            }
         }
     }
 }
