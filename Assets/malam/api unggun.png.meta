@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: bb4df546d7202214393d560320045db9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4677870804632657138
+    second: api unggun_0
+  - first:
+      213: 7164462199544635869
+    second: api unggun_1
+  - first:
+      213: 2183594963224895932
+    second: api unggun_2
+  - first:
+      213: -8030430017450719542
+    second: api unggun_3
+  - first:
+      213: 2281561036426081682
+    second: api unggun_4
+  - first:
+      213: -6420886504012303185
+    second: api unggun_5
+  - first:
+      213: -1065676724097958665
+    second: api unggun_6
+  - first:
+      213: -9208767978655757505
+    second: api unggun_7
+  - first:
+      213: -8500307948911648708
+    second: api unggun_8
+  - first:
+      213: 2693882579100686037
+    second: api unggun_9
+  - first:
+      213: -5302406278599625328
+    second: api unggun_10
+  - first:
+      213: -4426099915387423122
+    second: api unggun_11
+  - first:
+      213: 5058323955645098927
+    second: api unggun_12
+  - first:
+      213: -5886259041465731292
+    second: api unggun_13
+  - first:
+      213: -2150972092199189708
+    second: api unggun_14
+  - first:
+      213: 8734309069230314653
+    second: api unggun_15
+  - first:
+      213: 1701114575193698464
+    second: api unggun_16
+  - first:
+      213: -2313908935068092020
+    second: api unggun_17
+  - first:
+      213: 8019361366330528089
+    second: api unggun_18
+  - first:
+      213: 7100349367153055781
+    second: api unggun_19
+  - first:
+      213: 8707842733851592489
+    second: api unggun_20
+  - first:
+      213: 3796933528247458492
+    second: api unggun_21
+  - first:
+      213: -7154549372338761012
+    second: api unggun_22
+  - first:
+      213: 853117584525525169
+    second: api unggun_23
+  - first:
+      213: -2589924416125143571
+    second: api unggun_24
+  - first:
+      213: -1466817126855782645
+    second: api unggun_25
+  - first:
+      213: 1851138889751309101
+    second: api unggun_26
+  - first:
+      213: 1220518976130276489
+    second: api unggun_27
+  - first:
+      213: -6331394170976910082
+    second: api unggun_28
+  - first:
+      213: 2333441675283576052
+    second: api unggun_29
+  - first:
+      213: -6272276988169297399
+    second: api unggun_30
+  - first:
+      213: 5676509506965642184
+    second: api unggun_31
+  - first:
+      213: -9093869388768260590
+    second: api unggun_32
+  - first:
+      213: -7591068170819308720
+    second: api unggun_33
+  - first:
+      213: -2608155357868233327
+    second: api unggun_34
+  - first:
+      213: -4934912060736708996
+    second: api unggun_35
+  - first:
+      213: 6594956296022573749
+    second: api unggun_36
+  - first:
+      213: 829024599387395093
+    second: api unggun_37
+  - first:
+      213: 1783185977594002177
+    second: api unggun_38
+  - first:
+      213: 2644670223800301467
+    second: api unggun_39
+  - first:
+      213: -4199732205246729300
+    second: api unggun_40
+  - first:
+      213: 6240417852333890062
+    second: api unggun_41
+  - first:
+      213: -5228710265027473569
+    second: api unggun_42
+  - first:
+      213: 5876163106593634380
+    second: api unggun_43
+  - first:
+      213: 8606149422396576008
+    second: api unggun_44
+  - first:
+      213: 6048547236815569255
+    second: api unggun_45
+  - first:
+      213: 7354653560437693533
+    second: api unggun_46
+  - first:
+      213: -3369119000857164797
+    second: api unggun_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: api unggun_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 883
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcdc4f56b22be040800000000000000
+      internalID: 4677870804632657138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 883
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1629a59684d6360800000000000000
+      internalID: 7164462199544635869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 883
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb12a54cc00bd4e10800000000000000
+      internalID: 2183594963224895932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 883
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64738327e2e8090800000000000000
+      internalID: -8030430017450719542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 125
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2957c85acabb9af10800000000000000
+      internalID: 2281561036426081682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 699
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa43f317ebd64e6a0800000000000000
+      internalID: -6420886504012303185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 699
+        width: 126
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc3db66aa4f531f0800000000000000
+      internalID: -1065676724097958665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 699
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b4b354052e33080800000000000000
+      internalID: -9208767978655757505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 595
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3021bff4f6d80a80800000000000000
+      internalID: -8500307948911648708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 595
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6d8e1dee7926520800000000000000
+      internalID: 2693882579100686037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 595
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095b44d35911a66b0800000000000000
+      internalID: -5302406278599625328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 595
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6632f2d3955392c0800000000000000
+      internalID: -4426099915387423122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 595
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab231766d6c23640800000000000000
+      internalID: 5058323955645098927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_13
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 595
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427f089a69ecf4ea0800000000000000
+      internalID: -5886259041465731292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 595
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43340ba47463622e0800000000000000
+      internalID: -2150972092199189708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 595
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9412f572df763970800000000000000
+      internalID: 8734309069230314653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 531
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0f8a871b29b9710800000000000000
+      internalID: 1701114575193698464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 531
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f9aa451853efd0800000000000000
+      internalID: -2313908935068092020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 527
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9515f9d9cae7a4f60800000000000000
+      internalID: 8019361366330528089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 527
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528d3525122898260800000000000000
+      internalID: 7100349367153055781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_20
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 527
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c03f84d878d870800000000000000
+      internalID: 8707842733851592489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_21
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 527
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbad5fa4dea61b430800000000000000
+      internalID: 3796933528247458492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 547
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc211c5904fe5bc90800000000000000
+      internalID: -7154549372338761012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 535
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b088415ce1e6db00800000000000000
+      internalID: 853117584525525169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 531
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ffbd277dbe0cd0800000000000000
+      internalID: -2589924416125143571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 531
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f4d4b3891d4abe0800000000000000
+      internalID: -1466817126855782645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 431
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba981330190b910800000000000000
+      internalID: 1851138889751309101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 407
+        width: 166
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5eddca8720f010800000000000000
+      internalID: 1220518976130276489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_28
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 391
+        width: 86
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef441f1fb8e5228a0800000000000000
+      internalID: -6331394170976910082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 407
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4be5f27dc026020800000000000000
+      internalID: 2333441675283576052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_30
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 427
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ef4baf4564f8a0800000000000000
+      internalID: -6272276988169297399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_31
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 427
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb90d6325307ce40800000000000000
+      internalID: 5676509506965642184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e4ba8e8f51cc180800000000000000
+      internalID: -9093869388768260590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 263
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537a84c7bb17a690800000000000000
+      internalID: -7591068170819308720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 263
+        width: 46
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d6b374588fdcbd0800000000000000
+      internalID: -2608155357868233327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_35
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 263
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e5ff580aba38bb0800000000000000
+      internalID: -4934912060736708996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 127
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c6a54fcdf58b50800000000000000
+      internalID: 6594956296022573749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 127
+        width: 46
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514db841b79418b00800000000000000
+      internalID: 829024599387395093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 127
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bb2fae2362fb810800000000000000
+      internalID: 1783185977594002177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 42
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b977ba57e81c3b420800000000000000
+      internalID: 2644670223800301467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 59
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3308a7fcd87b5c0800000000000000
+      internalID: -4199732205246729300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_41
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 59
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1e5a39fa6a9650800000000000000
+      internalID: 6240417852333890062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 59
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f499387b3ef67b0800000000000000
+      internalID: -5228710265027473569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_43
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 55
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48f4c256335c8150800000000000000
+      internalID: 5876163106593634380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80191e56d4f2f6770800000000000000
+      internalID: 8606149422396576008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76100915aa1c0f350800000000000000
+      internalID: 6048547236815569255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c53f3527af01660800000000000000
+      internalID: 7354653560437693533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: api unggun_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c3eb7e1c7e31d0800000000000000
+      internalID: -3369119000857164797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      api unggun_0: 4677870804632657138
+      api unggun_1: 7164462199544635869
+      api unggun_10: -5302406278599625328
+      api unggun_11: -4426099915387423122
+      api unggun_12: 5058323955645098927
+      api unggun_13: -5886259041465731292
+      api unggun_14: -2150972092199189708
+      api unggun_15: 8734309069230314653
+      api unggun_16: 1701114575193698464
+      api unggun_17: -2313908935068092020
+      api unggun_18: 8019361366330528089
+      api unggun_19: 7100349367153055781
+      api unggun_2: 2183594963224895932
+      api unggun_20: 8707842733851592489
+      api unggun_21: 3796933528247458492
+      api unggun_22: -7154549372338761012
+      api unggun_23: 853117584525525169
+      api unggun_24: -2589924416125143571
+      api unggun_25: -1466817126855782645
+      api unggun_26: 1851138889751309101
+      api unggun_27: 1220518976130276489
+      api unggun_28: -6331394170976910082
+      api unggun_29: 2333441675283576052
+      api unggun_3: -8030430017450719542
+      api unggun_30: -6272276988169297399
+      api unggun_31: 5676509506965642184
+      api unggun_32: -9093869388768260590
+      api unggun_33: -7591068170819308720
+      api unggun_34: -2608155357868233327
+      api unggun_35: -4934912060736708996
+      api unggun_36: 6594956296022573749
+      api unggun_37: 829024599387395093
+      api unggun_38: 1783185977594002177
+      api unggun_39: 2644670223800301467
+      api unggun_4: 2281561036426081682
+      api unggun_40: -4199732205246729300
+      api unggun_41: 6240417852333890062
+      api unggun_42: -5228710265027473569
+      api unggun_43: 5876163106593634380
+      api unggun_44: 8606149422396576008
+      api unggun_45: 6048547236815569255
+      api unggun_46: 7354653560437693533
+      api unggun_47: -3369119000857164797
+      api unggun_5: -6420886504012303185
+      api unggun_6: -1065676724097958665
+      api unggun_7: -9208767978655757505
+      api unggun_8: -8500307948911648708
+      api unggun_9: 2693882579100686037
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
