@@ -335,6 +335,11 @@ public class MovementMusuh : MonoBehaviour
     {
         return isWithinXRange;
     }
+    
+    public bool IsDead()
+    {
+        return isDead;
+    }   
 
     // Fungsi untuk mendapatkan info musuh (debugging)
     public void GetEnemyInfo()
