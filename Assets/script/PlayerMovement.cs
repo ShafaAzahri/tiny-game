@@ -69,15 +69,20 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        if (isDead) return;
+        // Debug untuk status player
+        if (isDead)
+        {
+            Debug.LogWarning("Player is DEAD - No movement allowed");
+            return;
+        }
 
         movementInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
 
         HandleJump();
         HandleAttack();
-        HandleSkill();  // Fungsi untuk mengaktifkan skill
-        UpdateSkillCooldown(); // Update status cooldown skill
-        UpdateSkillUI(); // TAMBAHAN: Update UI skill setiap frame
+        HandleSkill();
+        UpdateSkillCooldown();
+        UpdateSkillUI();
         UpdateAnimations();
     }
 
@@ -290,24 +295,62 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
     private void Die()
     {
-        isDead = true;
-        anim.SetTrigger("death");
-        rb.linearVelocity = Vector2.zero;
+        if (isDead) return; // Hindari pemanggilan berkali-kali
+
+        Debug.Log("Player Die: Setting player to dead state");
         
-        Debug.Log("Player mati!");
+        isDead = true;
+        
+        if (anim != null)
+        {
+            anim.SetTrigger("death");
+        }
+        
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+        }
     }
+
 
     // Method untuk reset game atau respawn (opsional)
     public void ResetPlayer()
     {
+        Debug.Log("ResetPlayer: Player reset complete");
         isDead = false;
+        Debug.Log($"isDead set to: {isDead}");
+        isJumping = false;
         currentLives = maxLives;
         hitCounter = 0;
         currentHealth = maxHealth;
         isSkillReady = true;
         lastSkillTime = -999f;
+            // Reset animator
+        if (anim != null)
+        {
+            Debug.Log("Resetting Animator");
+            anim.Rebind(); 
+            anim.Update(0f);
+        }
+
+        // Reset velocity dan movement
+        if (rb != null)
+        {
+            Debug.Log("Resetting Rigidbody");
+            rb.linearVelocity = Vector2.zero;
+            rb.gravityScale = 0f;
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+        }
         UpdateUI();
         UpdateSkillUI();
+        Debug.Log("ResetPlayer: Player reset complete");
+    }
+
+    public void ForceReset()
+    {
+        Debug.Log("FORCE RESET PLAYER");
+        ResetPlayer();
+        isDead = false;
     }
 
     // Getter methods
@@ -317,4 +360,6 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     public int GetHitCounter() => hitCounter;
     public bool IsSkillReady() => isSkillReady;
     public float GetSkillCooldownProgress() => isSkillReady ? 1f : Mathf.Clamp01((Time.time - lastSkillTime) / skillCooldownTime);
+
+
 }
