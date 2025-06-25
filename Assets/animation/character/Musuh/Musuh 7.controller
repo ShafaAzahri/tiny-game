@@ -69,7 +69,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 979d27ce68530cd4caa9d7f71f9fa851, type: 2}
+  m_Motion: {fileID: 7400000, guid: 23353df62a4524844a28a9427ddd1b10, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -169,7 +169,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Musuh1
+  m_Name: Musuh 7
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: isMoving
@@ -318,7 +318,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2758461952d0ad64e8549751695b234d, type: 2}
+  m_Motion: {fileID: 7400000, guid: efa808004d1307443b04abb104b8c7de, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -345,7 +345,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: a38d2bc936d9a7640b571f2cc33af1a6, type: 2}
+  m_Motion: {fileID: 7400000, guid: 5722b43b0ef3bde4394575a82e04cf0a, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -371,7 +371,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: feea39d3ec95f9e4d977581d89ebfe8f, type: 2}
+  m_Motion: {fileID: 7400000, guid: 4f2e30827fb56ce44915c22e57e59ca6, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -423,7 +423,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 67ce637292ce80846928af893fcb0f8d, type: 2}
+  m_Motion: {fileID: 7400000, guid: a5ffc76c99da262439758dccae06643b, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
