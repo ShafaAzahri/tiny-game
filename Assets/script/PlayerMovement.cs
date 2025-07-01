@@ -3,30 +3,30 @@ using TMPro;
 
 public class BeatEmUpPlayerMovement : MonoBehaviour
 {
-    [Header("Movement")]
+    [Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 8f;
     [SerializeField] private float jumpDuration = 0.8f;
 
-    [Header("Combat")]
+    [Header("Combat Settings")]
     [SerializeField] private float attackCooldown = 0.25f;
     [SerializeField] private float attackRange = 1f;
 
-    [Header("Health")]
+    [Header("Health Settings")]
     [SerializeField] private float maxHealth = 100f;
     [SerializeField] private float damageAmount = 10f;
-    [SerializeField] private int maxLives = 3; // Jumlah nyawa maksimal
-    [SerializeField] private int hitsToLoseLife = 5; // Jumlah hit untuk mengurangi nyawa
+    [SerializeField] private int maxLives = 3; 
+    [SerializeField] private int hitsToLoseLife = 5; 
 
-    [Header("UI")]
-    [SerializeField] private TextMeshProUGUI livesText; // Text untuk menampilkan nyawa
-    [SerializeField] private TextMeshProUGUI hitCounterText; // Text untuk menampilkan hit counter (opsional)
-    [SerializeField] private GameObject skillUI; // UI skill icon/indicator
-    [SerializeField] private float skillCooldownTime = 2f; // Cooldown skill dalam detik
+    [Header("UI Elements")]
+    [SerializeField] private TextMeshProUGUI livesText; 
+    [SerializeField] private TextMeshProUGUI hitCounterText; 
+    [SerializeField] private GameObject skillUI; 
+    [SerializeField] private float skillCooldownTime = 2f; 
 
-    [Header("Skill")]
-    [SerializeField] private GameObject skillPrefab;  // Prefab skill
-    [SerializeField] private Transform skillSpawnPoint;  // Titik spawn skill
+    [Header("Skill Settings")]
+    [SerializeField] private GameObject skillPrefab;  
+    [SerializeField] private Transform skillSpawnPoint;
 
     private Rigidbody2D rb;
     private Animator anim;
@@ -38,12 +38,10 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     private float jumpStartTime;
     private float groundY;
 
-    // Hit counter variables
     private int currentLives;
     private int hitCounter = 0;
-    
-    // Skill variables
-    private float lastSkillTime = -999f; // Waktu terakhir skill digunakan
+
+    private float lastSkillTime = -999f; 
     private bool isSkillReady = true;
 
     private Vector2 movementInput;
@@ -52,7 +50,7 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     private static readonly int JumpHash = Animator.StringToHash("jump");
     private static readonly int AttackHash = Animator.StringToHash("attack");
     private static readonly int SkillTriggerHash = Animator.StringToHash("SkillTrigger");
-    private static readonly int HurtHash = Animator.StringToHash("hurt");  // Animator hash untuk hurt
+    private static readonly int HurtHash = Animator.StringToHash("hurt");
 
     private void Awake()
     {
@@ -63,18 +61,13 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
         currentLives = maxLives;
         rb.gravityScale = 0f;
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
-        
+
         UpdateUI();
     }
 
     private void Update()
     {
-        // Debug untuk status player
-        if (isDead)
-        {
-            Debug.LogWarning("Player is DEAD - No movement allowed");
-            return;
-        }
+        if (isDead) return;
 
         movementInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
 
@@ -90,14 +83,23 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     {
         if (!isJumping && !isDead)
         {
-            rb.MovePosition(rb.position + movementInput * moveSpeed * Time.fixedDeltaTime);
-
-            // Flip sprite
-            if (movementInput.x > 0.01f)
-                transform.localScale = new Vector3(Mathf.Abs(startScale.x), startScale.y, startScale.z);
-            else if (movementInput.x < -0.01f)
-                transform.localScale = new Vector3(-Mathf.Abs(startScale.x), startScale.y, startScale.z);
+            MovePlayer();
         }
+    }
+
+    private void MovePlayer()
+    {
+        rb.MovePosition(rb.position + movementInput * moveSpeed * Time.fixedDeltaTime);
+
+        if (movementInput.x != 0)
+        {
+            FlipSprite(movementInput.x);
+        }
+    }
+
+    private void FlipSprite(float direction)
+    {
+        transform.localScale = new Vector3(Mathf.Sign(direction) * Mathf.Abs(startScale.x), startScale.y, startScale.z);
     }
 
     private void HandleJump()
@@ -109,20 +111,7 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
         if (isJumping)
         {
-            float jumpProgress = (Time.time - jumpStartTime) / jumpDuration;
-
-            if (jumpProgress >= 1f)
-            {
-                EndJump();
-            }
-            else
-            {
-                float jumpHeight = Mathf.Sin(jumpProgress * Mathf.PI) * jumpForce;
-                Vector3 pos = transform.position;
-                pos.y = groundY + jumpHeight;
-
-                transform.position = pos;
-            }
+            HandleJumping();
         }
     }
 
@@ -134,12 +123,25 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
         anim.SetTrigger(JumpHash);
     }
 
+    private void HandleJumping()
+    {
+        float jumpProgress = (Time.time - jumpStartTime) / jumpDuration;
+
+        if (jumpProgress >= 1f)
+        {
+            EndJump();
+        }
+        else
+        {
+            float jumpHeight = Mathf.Sin(jumpProgress * Mathf.PI) * jumpForce;
+            transform.position = new Vector3(transform.position.x, groundY + jumpHeight, transform.position.z);
+        }
+    }
+
     private void EndJump()
     {
         isJumping = false;
-        Vector3 pos = transform.position;
-        pos.y = groundY;
-        transform.position = pos;
+        transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
     }
 
     private void HandleAttack()
@@ -174,7 +176,7 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
             SpawnSkill();
             lastSkillTime = Time.time;
             isSkillReady = false;
-            UpdateSkillUI(); // Update UI langsung setelah skill digunakan
+            UpdateSkillUI();
         }
     }
 
@@ -186,22 +188,20 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
     private void SpawnSkill()
     {
-        Vector3 spawnPosition = transform.position + new Vector3(1.5f, 0, 0);
-        
-        if (skillPrefab != null)
-        {
-            GameObject skill = Instantiate(skillPrefab, spawnPosition, Quaternion.identity);
-            Destroy(skill, skill.GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).length);  // Destroy skill after animation ends
+        if (skillPrefab == null) return;
 
-            // Check collision with enemies
-            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(skill.transform.position, attackRange);
-            foreach (Collider2D enemy in hitEnemies)
+        Vector3 spawnPosition = transform.position + new Vector3(1.5f, 0, 0);
+        GameObject skill = Instantiate(skillPrefab, spawnPosition, Quaternion.identity);
+
+        Destroy(skill, skill.GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).length);
+
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(skill.transform.position, attackRange);
+        foreach (Collider2D enemy in hitEnemies)
+        {
+            if (enemy.CompareTag("Musuh"))
             {
-                if (enemy.CompareTag("Musuh"))
-                {
-                    enemy.GetComponent<MovementMusuh>()?.TakeDamage(damageAmount);  // Apply damage to enemy
-                    break;
-                }
+                enemy.GetComponent<MovementMusuh>()?.TakeDamage(damageAmount);
+                break;
             }
         }
     }
@@ -210,8 +210,7 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     {
         if (!isJumping)
         {
-            bool isMoving = movementInput != Vector2.zero;
-            anim.SetBool(RunHash, isMoving);
+            anim.SetBool(RunHash, movementInput != Vector2.zero);
         }
     }
 
@@ -222,16 +221,13 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
         damage = damage > 0 ? damage : damageAmount;
         currentHealth = Mathf.Clamp(currentHealth - damage, 0f, maxHealth);
 
-        // Tambah hit counter
         hitCounter++;
 
-        // Pastikan animasi hurt dipanggil hanya jika tidak sedang dalam animasi lain yang menghalangi
         if (!anim.GetCurrentAnimatorStateInfo(0).IsName("hurt"))
         {
-            anim.SetTrigger(HurtHash);  // Animasi hurt dipanggil
+            anim.SetTrigger(HurtHash);
         }
 
-        // Cek apakah sudah mencapai jumlah hit untuk mengurangi nyawa
         if (hitCounter >= hitsToLoseLife)
         {
             LoseLife();
@@ -245,30 +241,27 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     private void LoseLife()
     {
         currentLives--;
-        hitCounter = 0; // Reset hit counter
-        
+        hitCounter = 0;
+
         Debug.Log($"Nyawa berkurang! Sisa nyawa: {currentLives}");
-        
+
         if (currentLives <= 0)
         {
             Die();
         }
         else
         {
-            // Reset health ketika kehilangan nyawa (opsional)
             currentHealth = maxHealth;
         }
     }
 
     private void UpdateUI()
     {
-        // Update teks nyawa
         if (livesText != null)
         {
             livesText.text = $"{currentLives}";
         }
 
-        // Update hit counter (opsional)
         if (hitCounterText != null)
         {
             hitCounterText.text = $"Hit: {hitCounter}/{hitsToLoseLife}";
@@ -277,7 +270,6 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
     private void UpdateSkillCooldown()
     {
-        // Cek apakah skill sudah ready setelah cooldown
         if (!isSkillReady && Time.time >= lastSkillTime + skillCooldownTime)
         {
             isSkillReady = true;
@@ -286,7 +278,6 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
     private void UpdateSkillUI()
     {
-        // Tampilkan/sembunyikan skill UI berdasarkan status
         if (skillUI != null)
         {
             skillUI.SetActive(isSkillReady);
@@ -295,62 +286,49 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
 
     private void Die()
     {
-        if (isDead) return; // Hindari pemanggilan berkali-kali
+        if (isDead) return;
 
         Debug.Log("Player Die: Setting player to dead state");
-        
+
         isDead = true;
-        
-        if (anim != null)
-        {
-            anim.SetTrigger("death");
-        }
-        
+        anim.SetTrigger("death");
+
         if (rb != null)
         {
             rb.linearVelocity = Vector2.zero;
         }
     }
 
-
-    // Method untuk reset game atau respawn (opsional)
     public void ResetPlayer()
     {
-        Debug.Log("ResetPlayer: Player reset complete");
         isDead = false;
-        Debug.Log($"isDead set to: {isDead}");
         isJumping = false;
         currentLives = maxLives;
         hitCounter = 0;
         currentHealth = maxHealth;
         isSkillReady = true;
         lastSkillTime = -999f;
-            // Reset animator
+
         if (anim != null)
         {
-            Debug.Log("Resetting Animator");
-            anim.Rebind(); 
+            anim.Rebind();
             anim.Update(0f);
         }
 
-        // Reset velocity dan movement
         if (rb != null)
         {
-            Debug.Log("Resetting Rigidbody");
             rb.linearVelocity = Vector2.zero;
             rb.gravityScale = 0f;
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
+
         UpdateUI();
         UpdateSkillUI();
-        Debug.Log("ResetPlayer: Player reset complete");
     }
 
     public void ForceReset()
     {
-        Debug.Log("FORCE RESET PLAYER");
         ResetPlayer();
-        isDead = false;
     }
 
     // Getter methods
@@ -360,6 +338,4 @@ public class BeatEmUpPlayerMovement : MonoBehaviour
     public int GetHitCounter() => hitCounter;
     public bool IsSkillReady() => isSkillReady;
     public float GetSkillCooldownProgress() => isSkillReady ? 1f : Mathf.Clamp01((Time.time - lastSkillTime) / skillCooldownTime);
-
-
 }

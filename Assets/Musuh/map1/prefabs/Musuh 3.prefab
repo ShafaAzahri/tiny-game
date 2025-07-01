@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 5110716788225221158}
   - component: {fileID: 7932386419004549783}
   - component: {fileID: 316885493872202773}
-  - component: {fileID: 5013013598649705977}
   m_Layer: 0
   m_Name: Musuh 3
   m_TagString: Musuh
@@ -30,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 115013357133960760}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
-  m_LocalPosition: {x: 6.35, y: -3.19, z: 0.017527007}
+  m_LocalPosition: {x: 14.92, y: -0.2, z: 0.035054013}
   m_LocalScale: {x: 0.53525895, y: 0.41012946, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -186,27 +185,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.3398188, y: 2.6195886}
   m_EdgeRadius: 0
---- !u!114 &5013013598649705977
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 115013357133960760}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82afb43f63e0049469f9b50076ce1ca5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 2
-  attackCooldown: 1
-  attackRange: 1
-  maxXDistance: 6
-  useXDistanceLimit: 1
-  showXDistanceGizmo: 1
-  minY: -3.7
-  maxY: 0
-  minX: -80
-  maxX: 71
-  maxHealth: 50
-  attackDamage: 10

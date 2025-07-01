@@ -1,12 +1,11 @@
-
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 using UnityEngine.SceneManagement;
+using System.Collections;
 
 public class GameOverManager : MonoBehaviour
 {
-    
     [Header("Panel References")]
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private TextMeshProUGUI panelText;
@@ -19,14 +18,14 @@ public class GameOverManager : MonoBehaviour
 
     private void Start()
     {
-        // Pastikan panel tersembunyi di awal
+        // Ensure the panel is hidden initially
         gameOverPanel.SetActive(false);
         actionButton.onClick.AddListener(HandleButtonAction);
     }
 
     private void Update()
     {
-        // Cek kondisi game secara berkala
+        // Check game conditions periodically
         if (objectiveManager.IsPlayerDead() || objectiveManager.IsObjectiveCompleted())
         {
             ShowGameOverPanel(objectiveManager.IsObjectiveCompleted());
@@ -35,8 +34,8 @@ public class GameOverManager : MonoBehaviour
 
     private void ShowGameOverPanel(bool isVictory)
     {
-        // Hentikan game/input
-        Time.timeScale = 0f; // Jeda game
+        // Pause game/input and show game over panel
+        Time.timeScale = 0f; // Stop game time
         gameOverPanel.SetActive(true);
 
         if (isVictory)
@@ -55,22 +54,35 @@ public class GameOverManager : MonoBehaviour
     {
         Debug.Log("Game Over Manager: Handling Retry");
 
-        // Lanjutkan waktu permainan
+        // Unpause the game
         Time.timeScale = 1f;
 
-        // Cari player di scene
+        // Reset Player State
         BeatEmUpPlayerMovement player = FindObjectOfType<BeatEmUpPlayerMovement>();
         if (player != null)
         {
             Debug.Log("Player found, calling ForceReset");
-            player.ForceReset(); // Gunakan method baru
+            player.ForceReset();  // Call ForceReset method to reset player state
         }
         else
         {
             Debug.LogError("No player found in scene!");
         }
 
-        // Muat ulang scene
+        // Ensure player is active again before reloading the scene
+        // Reload the scene and reset the player state
+        StartCoroutine(ReloadScene());
+    }
+
+    private IEnumerator ReloadScene()
+    {
+        // Wait a frame to make sure the player is fully reset before reloading the scene
+        yield return null;
+
+        // Ensure Time.timeScale is properly reset before scene reload
+        Time.timeScale = 1f;  // Just in case it's still paused.
+
+        // Reload the scene to start fresh
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
