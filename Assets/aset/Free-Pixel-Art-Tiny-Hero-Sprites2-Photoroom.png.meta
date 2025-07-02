@@ -1,0 +1,4142 @@
+fileFormatVersion: 2
+guid: 9a328dad104a11b4887058d9134bfeb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4554873457818458536
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_0
+  - first:
+      213: -1253990473966629749
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_1
+  - first:
+      213: -7216044166597940510
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_2
+  - first:
+      213: -7196988178469877474
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_3
+  - first:
+      213: 1171608543225696296
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_4
+  - first:
+      213: 5948461608547165391
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_5
+  - first:
+      213: -7778987991385226741
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_6
+  - first:
+      213: 4975980813013640795
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_7
+  - first:
+      213: -4941964076244175421
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_8
+  - first:
+      213: -3422110392658242611
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_9
+  - first:
+      213: -9173316190261822602
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_10
+  - first:
+      213: -7272719286662678604
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_11
+  - first:
+      213: 3106294164620149646
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_12
+  - first:
+      213: 730784204815685099
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_13
+  - first:
+      213: 9210648660691943123
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_14
+  - first:
+      213: 2630145639069545609
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_15
+  - first:
+      213: -8857755566228794087
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_16
+  - first:
+      213: -2849646725294096257
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_17
+  - first:
+      213: 3299536576525796801
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_18
+  - first:
+      213: 6647251155114463199
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_19
+  - first:
+      213: -6278295590884390642
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_20
+  - first:
+      213: 6762542356637357668
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_21
+  - first:
+      213: 2766137752370583049
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_22
+  - first:
+      213: 4584963765040060964
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_23
+  - first:
+      213: -741296989117610608
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_24
+  - first:
+      213: -9176884180107476771
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_25
+  - first:
+      213: -3106793417601520357
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_26
+  - first:
+      213: 1358206654611286047
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_27
+  - first:
+      213: 2527384992384600169
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_28
+  - first:
+      213: 4378434235501857103
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_29
+  - first:
+      213: 250148364064482712
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_30
+  - first:
+      213: -5768519112925318466
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_31
+  - first:
+      213: 1188801377320778270
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_32
+  - first:
+      213: -5304462685762577387
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_33
+  - first:
+      213: -6900034881905394521
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_34
+  - first:
+      213: 3162585424975269209
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_35
+  - first:
+      213: -3299164311378890121
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_36
+  - first:
+      213: -1069549724047463759
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_37
+  - first:
+      213: -6609876159382924935
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_38
+  - first:
+      213: 8876591788522573907
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_39
+  - first:
+      213: -2488329713415318426
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_40
+  - first:
+      213: -4593206777723238341
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_41
+  - first:
+      213: 4679629791943064582
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_42
+  - first:
+      213: 368351262651835798
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_43
+  - first:
+      213: -2237365511534107468
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_44
+  - first:
+      213: 5692829790440407794
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_45
+  - first:
+      213: 6999052338617020000
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_46
+  - first:
+      213: -9042040592445413670
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_47
+  - first:
+      213: -7858467129422429680
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_48
+  - first:
+      213: 6051996619989419288
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_49
+  - first:
+      213: 6178366275810822019
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_50
+  - first:
+      213: -1108788802346221767
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_51
+  - first:
+      213: -8907168066481153671
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_52
+  - first:
+      213: -3501365180291713336
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_53
+  - first:
+      213: -262202549006126455
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_54
+  - first:
+      213: 8050207378423181400
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_55
+  - first:
+      213: -1706990226446380719
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_56
+  - first:
+      213: 2068301680973324440
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_57
+  - first:
+      213: -8324963597440168890
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_58
+  - first:
+      213: 5764187847298681608
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_59
+  - first:
+      213: 6765186654383535211
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_60
+  - first:
+      213: -1696697297271389892
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_61
+  - first:
+      213: 1765827373662407302
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_62
+  - first:
+      213: 3494692233665762291
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_63
+  - first:
+      213: -3291800117606887488
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_64
+  - first:
+      213: -4675403314241801250
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_65
+  - first:
+      213: -4846485669460956559
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_66
+  - first:
+      213: -8729174333642974293
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_67
+  - first:
+      213: 6724333866194401485
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_68
+  - first:
+      213: 5290900495884903818
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_69
+  - first:
+      213: -5262098419845894308
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_70
+  - first:
+      213: -796313498486450400
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_71
+  - first:
+      213: -5169278642377966022
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_72
+  - first:
+      213: 8676745964581520912
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_73
+  - first:
+      213: -3341479388021292872
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_74
+  - first:
+      213: -4547769753829749466
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_75
+  - first:
+      213: -3355615462375967691
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_76
+  - first:
+      213: 1970198981629090495
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_77
+  - first:
+      213: 4925345621344361323
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_78
+  - first:
+      213: -2399583957491156578
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_79
+  - first:
+      213: -961064273643518930
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_80
+  - first:
+      213: -3606095292479299394
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_81
+  - first:
+      213: 8240291784089392811
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_82
+  - first:
+      213: -3893850825958629269
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_83
+  - first:
+      213: 2933140860419712735
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_84
+  - first:
+      213: -5267722261857374616
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_85
+  - first:
+      213: 248490309552951992
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_86
+  - first:
+      213: 4922792121175764096
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_87
+  - first:
+      213: 5009719625602658912
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_88
+  - first:
+      213: -8038679875252269146
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_89
+  - first:
+      213: 7575769225376954622
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_90
+  - first:
+      213: -7851892177206797736
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_91
+  - first:
+      213: -6918557151574810539
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_92
+  - first:
+      213: 8839169398067763092
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_93
+  - first:
+      213: -4483041217411347157
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_94
+  - first:
+      213: -236354997434941005
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_95
+  - first:
+      213: -2654389673799040728
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_96
+  - first:
+      213: 7204092758959521299
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_97
+  - first:
+      213: 9071920198559321898
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_98
+  - first:
+      213: 3901437544965312396
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_99
+  - first:
+      213: 1684118000149783849
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_100
+  - first:
+      213: 2904373414865427455
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_101
+  - first:
+      213: -4362833613891456049
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_102
+  - first:
+      213: 5876821738559187808
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_103
+  - first:
+      213: -179334750126726013
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_104
+  - first:
+      213: -2014335086827974661
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_105
+  - first:
+      213: -3553739934846470406
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_106
+  - first:
+      213: -1148666520131082165
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_107
+  - first:
+      213: -3880046009836515884
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_108
+  - first:
+      213: 7023682175650185674
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_109
+  - first:
+      213: -1460100250057425713
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_110
+  - first:
+      213: -4617156386904064238
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_111
+  - first:
+      213: -4855171579940150595
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_112
+  - first:
+      213: -1294945662231065761
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_113
+  - first:
+      213: -6433224812488194897
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_114
+  - first:
+      213: -3132713972541821767
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_115
+  - first:
+      213: -5114365980120440855
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_116
+  - first:
+      213: 9136164003975244266
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_117
+  - first:
+      213: 2674769614842857426
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_118
+  - first:
+      213: 6208445311225382252
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_119
+  - first:
+      213: -6152845159348445336
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_120
+  - first:
+      213: -1187687425353389629
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_121
+  - first:
+      213: 4972888850244545740
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_122
+  - first:
+      213: 4310797883914016832
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_123
+  - first:
+      213: -1849768380049683007
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_124
+  - first:
+      213: -2724754468198206245
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_125
+  - first:
+      213: 5698415708211902603
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_126
+  - first:
+      213: -6741656691947361131
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_127
+  - first:
+      213: 6932203513461170728
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_128
+  - first:
+      213: -6076603256097281299
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_129
+  - first:
+      213: -1106667595358697045
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_130
+  - first:
+      213: -647636108692779752
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_131
+  - first:
+      213: 8692756719815882796
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_132
+  - first:
+      213: 7640299650567541205
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_133
+  - first:
+      213: 3097956307155627975
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_134
+  - first:
+      213: 8865537270065353409
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_135
+  - first:
+      213: -6764763084220088001
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_136
+  - first:
+      213: 916542211449945567
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_137
+  - first:
+      213: -729949764376240743
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_138
+  - first:
+      213: -7135501036861625611
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_139
+  - first:
+      213: 6041570048474429253
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_140
+  - first:
+      213: -2484625426057406129
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_141
+  - first:
+      213: -7737239818795304111
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_142
+  - first:
+      213: -1390416215610807381
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_143
+  - first:
+      213: -4768836436204914174
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_144
+  - first:
+      213: 8213744414560341974
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_145
+  - first:
+      213: 7673514839364297644
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_146
+  - first:
+      213: -5969188528142550020
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_147
+  - first:
+      213: -2824351702071299824
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_148
+  - first:
+      213: -4592094197944272016
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_149
+  - first:
+      213: 6457860614646478729
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_150
+  - first:
+      213: 2921781455720675789
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_151
+  - first:
+      213: 3247899791174682971
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_152
+  - first:
+      213: -1087822996991485282
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_153
+  - first:
+      213: -3111261028898801867
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_154
+  - first:
+      213: -8043624764737698448
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_155
+  - first:
+      213: -5138970651020444483
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_156
+  - first:
+      213: -7656177997731554254
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_157
+  - first:
+      213: -928592333464667902
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_158
+  - first:
+      213: 1977007140793797513
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_159
+  - first:
+      213: -6252503238430237386
+    second: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 694
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9df12f649263f30800000000000000
+      internalID: 4554873457818458536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 695
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cce7fce4ee89ee0800000000000000
+      internalID: -1253990473966629749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 695
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea666e00167bdb90800000000000000
+      internalID: -7216044166597940510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 694
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e190e9902692f1c90800000000000000
+      internalID: -7196988178469877474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 694
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d7ca33c3624010800000000000000
+      internalID: 1171608543225696296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 695
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4a081115e2d8250800000000000000
+      internalID: 5948461608547165391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 695
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02447df2ab7b0490800000000000000
+      internalID: -7778987991385226741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 694
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5666d08f2c3e0540800000000000000
+      internalID: 4975980813013640795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 694
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c579b63bdd9a6bb0800000000000000
+      internalID: -4941964076244175421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 694
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3de6f9ab83280d0800000000000000
+      internalID: -3422110392658242611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 695
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bba1bf685d1b080800000000000000
+      internalID: -9173316190261822602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 695
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b65f575c121b90800000000000000
+      internalID: -7272719286662678604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 694
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e838d0ab516cb1b20800000000000000
+      internalID: 3106294164620149646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 686
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be55187cc54442a00800000000000000
+      internalID: 730784204815685099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 694
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7873282cc2df70800000000000000
+      internalID: 9210648660691943123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 694
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984784c0687208420800000000000000
+      internalID: 2630145639069545609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 694
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91591bf2e3ee21580800000000000000
+      internalID: -8857755566228794087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 695
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f708d73c6650478d0800000000000000
+      internalID: -2849646725294096257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 701
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c58a3fd80f4acd20800000000000000
+      internalID: 3299536576525796801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 697
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0769f4b7cf3c50800000000000000
+      internalID: 6647251155114463199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 694
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e094f668c630fd8a0800000000000000
+      internalID: -6278295590884390642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 694
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46617e1a17069dd50800000000000000
+      internalID: 6762542356637357668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 587
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90698d151ab436620800000000000000
+      internalID: 2766137752370583049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 587
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a104b804011af30800000000000000
+      internalID: 4584963765040060964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 584
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0950492e05266b5f0800000000000000
+      internalID: -741296989117610608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 587
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0cacb957825a080800000000000000
+      internalID: -9176884180107476771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 587
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de651e8d372e4d0800000000000000
+      internalID: -3106793417601520357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 584
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f186dab91c159d210800000000000000
+      internalID: 1358206654611286047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 629
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968ccb98243131320800000000000000
+      internalID: 2527384992384600169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 630
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f494f7f3db253cc30800000000000000
+      internalID: 4378434235501857103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 629
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895653d9c94b87300800000000000000
+      internalID: 250148364064482712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 629
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f8020e6a12ffa0800000000000000
+      internalID: -5768519112925318466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 636
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a33bbdd887f7010800000000000000
+      internalID: 1188801377320778270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 587
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9ec2aa43c266b0800000000000000
+      internalID: -5304462685762577387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 587
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac793635d62e30a0800000000000000
+      internalID: -6900034881905394521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 587
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d8a7b10b2c3eb20800000000000000
+      internalID: 3162585424975269209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 587
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7727d9cd9830732d0800000000000000
+      internalID: -3299164311378890121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 587
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa88451323821f0800000000000000
+      internalID: -1069549724047463759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 587
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97158a657a00544a0800000000000000
+      internalID: -6609876159382924935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 587
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3509903933dff2b70800000000000000
+      internalID: 8876591788522573907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 587
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66494d33f4da77dd0800000000000000
+      internalID: -2488329713415318426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 587
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38c3e185c6a140c0800000000000000
+      internalID: -4593206777723238341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 587
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf915808261f040800000000000000
+      internalID: 4679629791943064582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 587
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695ede29585ac1500800000000000000
+      internalID: 368351262651835798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 587
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4ac4cdbe743f0e0800000000000000
+      internalID: -2237365511534107468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 587
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f246f1588ef00f40800000000000000
+      internalID: 5692829790440407794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 587
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e62a7f401a12160800000000000000
+      internalID: 6999052338617020000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 478
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e0aaecf7348280800000000000000
+      internalID: -9042040592445413670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 478
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01241bf18cd11f290800000000000000
+      internalID: -7858467129422429680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 478
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815855c6cd20df350800000000000000
+      internalID: 6051996619989419288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 478
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38705f9b467fdb550800000000000000
+      internalID: 6178366275810822019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 478
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff839757acc90f0800000000000000
+      internalID: -1108788802346221767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 478
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97910b2f5d1636480800000000000000
+      internalID: -8907168066481153671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 477
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67ac76be6a86fc0800000000000000
+      internalID: -3501365180291713336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 478
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982b94fbb287c5cf0800000000000000
+      internalID: -262202549006126455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 478
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850742775f418bf60800000000000000
+      internalID: 8050207378423181400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 478
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151999dde6d8f48e0800000000000000
+      internalID: -1706990226446380719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 478
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89022c6ab6514bc10800000000000000
+      internalID: 2068301680973324440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 478
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c458637b9c77c80800000000000000
+      internalID: -8324963597440168890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 478
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b8cd0ae428eff40800000000000000
+      internalID: 5764187847298681608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 478
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b647ebd2b65c2ed50800000000000000
+      internalID: 6765186654383535211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 478
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3106c03cce1478e0800000000000000
+      internalID: -1696697297271389892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 478
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a0fcdf3aa718810800000000000000
+      internalID: 1765827373662407302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 478
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d6f22214af7030800000000000000
+      internalID: 3494692233665762291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 371
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfc376db3d2152d0800000000000000
+      internalID: -3291800117606887488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 371
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3fee00571ad1fb0800000000000000
+      internalID: -4675403314241801250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 371
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a22ce16f2ddbcb0800000000000000
+      internalID: -4846485669460956559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 372
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babd0c4513ebbd680800000000000000
+      internalID: -8729174333642974293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 372
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc875a53602a15d50800000000000000
+      internalID: 6724333866194401485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 372
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a856827f7fd0d6940800000000000000
+      internalID: 5290900495884903818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 372
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe0ffed5549f6b0800000000000000
+      internalID: -5262098419845894308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 371
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027ddd8971de2f4f0800000000000000
+      internalID: -796313498486450400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 371
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e3c0876780348b0800000000000000
+      internalID: -5169278642377966022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 371
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0168f21cb7ef96870800000000000000
+      internalID: 8676745964581520912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 371
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b083b4533ea0a1d0800000000000000
+      internalID: -3341479388021292872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 376
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d46b6018313e0c0800000000000000
+      internalID: -4547769753829749466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 374
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534b54a04857e61d0800000000000000
+      internalID: -3355615462375967691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 371
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba96d4098d875b10800000000000000
+      internalID: 1970198981629090495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 371
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b914c3fb75a5440800000000000000
+      internalID: 4925345621344361323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 393
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99730daa17f2bed0800000000000000
+      internalID: -2399583957491156578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 393
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c823922d99a2f0800000000000000
+      internalID: -961064273643518930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 402
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02099ff6394fdc0800000000000000
+      internalID: -3606095292479299394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 393
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6d73cf7b56b5270800000000000000
+      internalID: 8240291784089392811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 371
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60ef56ed4346f9c0800000000000000
+      internalID: -3893850825958629269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 371
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd62085721c94b820800000000000000
+      internalID: 2933140860419712735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 371
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ee29e238a45e6b0800000000000000
+      internalID: -5267722261857374616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 371
+        width: 85
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2d707be90d27300800000000000000
+      internalID: 248490309552951992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 380
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce5c52a55415440800000000000000
+      internalID: 4922792121175764096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0627954f479168540800000000000000
+      internalID: 5009719625602658912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 377
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afc1848e3fd07090800000000000000
+      internalID: -8038679875252269146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 386
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8fdeae8f9822960800000000000000
+      internalID: 7575769225376954622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 371
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9bea7aa9780390800000000000000
+      internalID: -7851892177206797736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 263
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550252e3de85cff90800000000000000
+      internalID: -6918557151574810539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 263
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49715515cb90baa70800000000000000
+      internalID: 8839169398067763092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 263
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d03c2d3c909c1c0800000000000000
+      internalID: -4483041217411347157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 263
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b18001d16c48bcf0800000000000000
+      internalID: -236354997434941005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 263
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8214ebdb7a6b92bd0800000000000000
+      internalID: -2654389673799040728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 261
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31efeb202341af360800000000000000
+      internalID: 7204092758959521299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 261
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fc1d10b5fe5ed70800000000000000
+      internalID: 9071920198559321898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 261
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f8705c6c0b42630800000000000000
+      internalID: 3901437544965312396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 261
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925e4c6f5603f5710800000000000000
+      internalID: 1684118000149783849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 262
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb54289b386e4820800000000000000
+      internalID: 2904373414865427455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 263
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3bdd581f91473c0800000000000000
+      internalID: -4362833613891456049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 263
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2d170c3aae8150800000000000000
+      internalID: 5876821738559187808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 263
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38420d2beffd28df0800000000000000
+      internalID: -179334750126726013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 262
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff430339e4ab04e0800000000000000
+      internalID: -2014335086827974661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 263
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af63b579b549eaec0800000000000000
+      internalID: -3553739934846470406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 262
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e336c2ed1f00f0800000000000000
+      internalID: -1148666520131082165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 263
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc58f16be472ac0800000000000000
+      internalID: -3880046009836515884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 262
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac14fd6c9b1297160800000000000000
+      internalID: 7023682175650185674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 262
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc3edafe8eacbbe0800000000000000
+      internalID: -1460100250057425713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 262
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f38269ab09cefb0800000000000000
+      internalID: -4617156386904064238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 262
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2681efb27fe9cb0800000000000000
+      internalID: -4855171579940150595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 155
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bc847f7cd670ee0800000000000000
+      internalID: -1294945662231065761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 155
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa489632e1898b6a0800000000000000
+      internalID: -6433224812488194897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 155
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcedb36d3d5684d0800000000000000
+      internalID: -3132713972541821767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 155
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef1497fc3f1609b0800000000000000
+      internalID: -5114365980120440855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9a7a291cc2ace70800000000000000
+      internalID: 9136164003975244266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 154
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d787bc0bc0be1520800000000000000
+      internalID: 2674769614842857426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 154
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c654707ed14d82650800000000000000
+      internalID: 6208445311225382252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 154
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fdd0f3de3bc9aa0800000000000000
+      internalID: -6152845159348445336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 154
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ec9b449c748fe0800000000000000
+      internalID: -1187687425353389629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_122
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 154
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccca352df00430540800000000000000
+      internalID: 4972888850244545740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 155
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485339f5d703db30800000000000000
+      internalID: 4310797883914016832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 155
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8366757d4456e0800000000000000
+      internalID: -1849768380049683007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 155
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd433ee5f3abf2ad0800000000000000
+      internalID: -2724754468198206245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 155
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88f97625e6d41f40800000000000000
+      internalID: 5698415708211902603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 155
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca7de15f2d072a0800000000000000
+      internalID: -6741656691947361131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_128
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 154
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822619afd52243060800000000000000
+      internalID: 6932203513461170728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 154
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae657a8819baba0800000000000000
+      internalID: -6076603256097281299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 154
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba985367fa354a0f0800000000000000
+      internalID: -1106667595358697045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 154
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d86a5f3622307f0800000000000000
+      internalID: -647636108692779752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f3833e20e2a870800000000000000
+      internalID: 8692756719815882796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_133
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d19e995d0cc70a60800000000000000
+      internalID: 7640299650567541205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 46
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf21b109d62efa20800000000000000
+      internalID: 3097956307155627975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_135
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 46
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c25b3dec27b80b70800000000000000
+      internalID: 8865537270065353409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 76
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31c26fe0dbbe12a0800000000000000
+      internalID: -6764763084220088001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 47
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddff17094638bc00800000000000000
+      internalID: 916542211449945567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_138
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 74
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d59768e82bed5f0800000000000000
+      internalID: -729949764376240743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_139
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6e6bcc9b99fc90800000000000000
+      internalID: -7135501036861625611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 67
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54735f013f7f7d350800000000000000
+      internalID: 6041570048474429253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 46
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d1ffc656d48dd0800000000000000
+      internalID: -2484625426057406129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 54
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb2b2e06dcf9490800000000000000
+      internalID: -7737239818795304111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 49
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab239291df34bce0800000000000000
+      internalID: -1390416215610807381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af0141780b1ddb0800000000000000
+      internalID: -4768836436204914174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 49
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfc7b9d6051df170800000000000000
+      internalID: 8213744414560341974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_146
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 47
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36ff2271dcd7a60800000000000000
+      internalID: 7673514839364297644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_147
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbf9b6e8ae292da0800000000000000
+      internalID: -5969188528142550020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_148
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 47
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011354d4713edc8d0800000000000000
+      internalID: -2824351702071299824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_149
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 47
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b366c28aa9540c0800000000000000
+      internalID: -4592094197944272016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_150
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 47
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9873df8830eee9950800000000000000
+      internalID: 6457860614646478729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_151
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9fd83f0c04c8820800000000000000
+      internalID: 2921781455720675789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_152
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 45
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594807e6abd21d20800000000000000
+      internalID: 3247899791174682971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_153
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 46
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a52dd6fb647e0f0800000000000000
+      internalID: -1087822996991485282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_154
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 47
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53778f0149492d4d0800000000000000
+      internalID: -3111261028898801867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_155
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 47
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0754647b4ed4f5090800000000000000
+      internalID: -8043624764737698448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_156
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 52
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb4ca9b65bea8b0800000000000000
+      internalID: -5138970651020444483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_157
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 47
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c9c0cdcaacfb590800000000000000
+      internalID: -7656177997731554254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_158
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 54
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ffae413afc13f0800000000000000
+      internalID: -928592333464667902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_159
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 47
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bcc69158dbf6b10800000000000000
+      internalID: 1977007140793797513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Pixel-Art-Tiny-Hero-Sprites2-Photoroom_160
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 47
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dd26c8e65aa39a0800000000000000
+      internalID: -6252503238430237386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
