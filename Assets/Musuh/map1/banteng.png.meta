@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: ade6c28cf243ec348a858c6a022d655a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4302589553944917391
+    second: banteng_0
+  - first:
+      213: -5394326241681436082
+    second: banteng_1
+  - first:
+      213: -244043567377829589
+    second: banteng_2
+  - first:
+      213: -2644105458009471942
+    second: banteng_3
+  - first:
+      213: 4705044830983424332
+    second: banteng_4
+  - first:
+      213: 3812360846038890112
+    second: banteng_5
+  - first:
+      213: -3032876643467239239
+    second: banteng_6
+  - first:
+      213: -5209964392568872211
+    second: banteng_7
+  - first:
+      213: -5622159811280739669
+    second: banteng_8
+  - first:
+      213: 8472628181616068785
+    second: banteng_9
+  - first:
+      213: -6237710914433948512
+    second: banteng_10
+  - first:
+      213: 2321832192023941956
+    second: banteng_11
+  - first:
+      213: 6217856728066837545
+    second: banteng_12
+  - first:
+      213: 4024184407115531741
+    second: banteng_13
+  - first:
+      213: 3775766897900178173
+    second: banteng_14
+  - first:
+      213: 7242553952403603424
+    second: banteng_15
+  - first:
+      213: 1313530298772847380
+    second: banteng_16
+  - first:
+      213: 5777489000835439991
+    second: banteng_17
+  - first:
+      213: -8075914762172941918
+    second: banteng_18
+  - first:
+      213: 1625137751585298955
+    second: banteng_19
+  - first:
+      213: -3551622502915281641
+    second: banteng_20
+  - first:
+      213: -5431286642827198743
+    second: banteng_21
+  - first:
+      213: 2130902431229390607
+    second: banteng_22
+  - first:
+      213: 5609162808625901606
+    second: banteng_23
+  - first:
+      213: 8780089061413775084
+    second: banteng_24
+  - first:
+      213: -7356203116850965467
+    second: banteng_25
+  - first:
+      213: -3863276797057765270
+    second: banteng_26
+  - first:
+      213: 1434166990770002291
+    second: banteng_27
+  - first:
+      213: -2375729994130919612
+    second: banteng_28
+  - first:
+      213: 1043913853794110553
+    second: banteng_29
+  - first:
+      213: -4040875821395801022
+    second: banteng_30
+  - first:
+      213: 7684881211796026351
+    second: banteng_31
+  - first:
+      213: 432291567493134792
+    second: banteng_32
+  - first:
+      213: -7238147873307412839
+    second: banteng_33
+  - first:
+      213: -7259665776911173374
+    second: banteng_34
+  - first:
+      213: 9187863168213666446
+    second: banteng_35
+  - first:
+      213: 3097006152676230632
+    second: banteng_36
+  - first:
+      213: -5763875294449674786
+    second: banteng_37
+  - first:
+      213: -2550907934868810596
+    second: banteng_38
+  - first:
+      213: -6741751748838011330
+    second: banteng_39
+  - first:
+      213: -7192053368707871230
+    second: banteng_40
+  - first:
+      213: 8382120926014086973
+    second: banteng_41
+  - first:
+      213: 228830823546601529
+    second: banteng_42
+  - first:
+      213: 1117570508095354100
+    second: banteng_43
+  - first:
+      213: 4201424995797667153
+    second: banteng_44
+  - first:
+      213: -704835806519508562
+    second: banteng_45
+  - first:
+      213: 4398239076738590720
+    second: banteng_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: banteng_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3586
+        width: 49
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f857139376ed5bb30800000000000000
+      internalID: 4302589553944917391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3586
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4292021dd08325b0800000000000000
+      internalID: -5394326241681436082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3586
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b9b02babfc9cf0800000000000000
+      internalID: -244043567377829589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3586
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a348ca258104e4bd0800000000000000
+      internalID: -2644105458009471942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3516
+        width: 250
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490e0b685dab4140800000000000000
+      internalID: 4705044830983424332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3516
+        width: 244
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08671cf9df938e430800000000000000
+      internalID: 3812360846038890112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3516
+        width: 250
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b06e8af2ce09e5d0800000000000000
+      internalID: -3032876643467239239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_7
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3516
+        width: 250
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2af701dfc72b7b0800000000000000
+      internalID: -5209964392568872211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3254
+        width: 152
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2622a60731af1b0800000000000000
+      internalID: -5622159811280739669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3254
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88037f072d49570800000000000000
+      internalID: 8472628181616068785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3254
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4669dd8f23f69a0800000000000000
+      internalID: -6237710914433948512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3254
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44357a9b31ec83020800000000000000
+      internalID: 2321832192023941956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_12
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3188
+        width: 250
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c42b420c34a4650800000000000000
+      internalID: 6217856728066837545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_13
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3188
+        width: 250
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd589c0b566c8d730800000000000000
+      internalID: 4024184407115531741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_14
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3188
+        width: 241
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfac4002df7366430800000000000000
+      internalID: 3775766897900178173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_15
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 3188
+        width: 250
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3e9f6278b28460800000000000000
+      internalID: 7242553952403603424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_16
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 3188
+        width: 250
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b711ce8d89a3210800000000000000
+      internalID: 1313530298772847380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_17
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3188
+        width: 241
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dd584c2a3cd2050800000000000000
+      internalID: 5777489000835439991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2923
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93954df469cef80800000000000000
+      internalID: -8075914762172941918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2923
+        width: 57
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a915abc26ad8610800000000000000
+      internalID: 1625137751585298955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2923
+        width: 58
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6371a62a16bec0800000000000000
+      internalID: -3551622502915281641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2923
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eef5f4139130a4b0800000000000000
+      internalID: -5431286642827198743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2923
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa170a87c729d10800000000000000
+      internalID: 2130902431229390607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_23
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2923
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620ba771bdfb7dd40800000000000000
+      internalID: 5609162808625901606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2856
+        width: 250
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66cd18b7429d970800000000000000
+      internalID: 8780089061413775084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_25
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2856
+        width: 278
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5241a747d3489e990800000000000000
+      internalID: -7356203116850965467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_26
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2856
+        width: 244
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60fc5ab832e26ac0800000000000000
+      internalID: -3863276797057765270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_27
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2856
+        width: 219
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379df61974f27e310800000000000000
+      internalID: 1434166990770002291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2597
+        width: 91
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe5915826b70fd0800000000000000
+      internalID: -2375729994130919612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2597
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc18f7e1abc7e00800000000000000
+      internalID: 1043913853794110553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2597
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c0d3499dcebe7c0800000000000000
+      internalID: -4040875821395801022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2597
+        width: 60
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3fc22febe26aa60800000000000000
+      internalID: 7684881211796026351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_32
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2524
+        width: 250
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c933d7e3eecff500800000000000000
+      internalID: 432291567493134792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2524
+        width: 233
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99633cbcbdeec8b90800000000000000
+      internalID: -7238147873307412839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_34
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2524
+        width: 236
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2093623707c704b90800000000000000
+      internalID: -7259665776911173374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_35
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2524
+        width: 236
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a45424fd8d18f70800000000000000
+      internalID: 9187863168213666446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2265
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5477defa6cafa20800000000000000
+      internalID: 3097006152676230632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2265
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55da045f99200b0800000000000000
+      internalID: -5763875294449674786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2262
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c945b6f9fba599cd0800000000000000
+      internalID: -2550907934868810596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_39
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2263
+        width: 61
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e44a6f08c7072a0800000000000000
+      internalID: -6741751748838011330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2262
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0488f091b03c90800000000000000
+      internalID: -7192053368707871230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_41
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2212
+        width: 250
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f10736296435470800000000000000
+      internalID: 8382120926014086973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_42
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2212
+        width: 233
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930c72feb68fc2300800000000000000
+      internalID: 228830823546601529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_43
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2212
+        width: 222
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f97ab478628f00800000000000000
+      internalID: 1117570508095354100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_44
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2212
+        width: 256
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d87f806c57e4a30800000000000000
+      internalID: 4201424995797667153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_45
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2212
+        width: 264
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1cd6f719be736f0800000000000000
+      internalID: -704835806519508562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: banteng_46
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 2209
+        width: 278
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008ee3e232fa90d30800000000000000
+      internalID: 4398239076738590720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

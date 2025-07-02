@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: 87c67383a53d3d2419b3e30be4ce7190
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3608505355831613327
+    second: Buto Ijo_0
+  - first:
+      213: -867335649568333771
+    second: Buto Ijo_1
+  - first:
+      213: 902619701485194904
+    second: Buto Ijo_2
+  - first:
+      213: 3735189486040548362
+    second: Buto Ijo_3
+  - first:
+      213: 8172831705787325941
+    second: Buto Ijo_4
+  - first:
+      213: -4588854736098743758
+    second: Buto Ijo_5
+  - first:
+      213: 7298998588923001132
+    second: Buto Ijo_6
+  - first:
+      213: 1199542062449136650
+    second: Buto Ijo_7
+  - first:
+      213: -6703433005683906806
+    second: Buto Ijo_8
+  - first:
+      213: 3145368390168784590
+    second: Buto Ijo_9
+  - first:
+      213: -6941173227044199920
+    second: Buto Ijo_10
+  - first:
+      213: -621839534565590127
+    second: Buto Ijo_11
+  - first:
+      213: 2598277123912210327
+    second: Buto Ijo_12
+  - first:
+      213: 7424775089667041507
+    second: Buto Ijo_13
+  - first:
+      213: 2767908045788635286
+    second: Buto Ijo_14
+  - first:
+      213: 6904695807083630614
+    second: Buto Ijo_15
+  - first:
+      213: -5347448781459955499
+    second: Buto Ijo_16
+  - first:
+      213: 3046131637627012039
+    second: Buto Ijo_17
+  - first:
+      213: 3322830418927869414
+    second: Buto Ijo_18
+  - first:
+      213: 4822045211959631766
+    second: Buto Ijo_19
+  - first:
+      213: 2305991573926574401
+    second: Buto Ijo_20
+  - first:
+      213: 8400194018216909950
+    second: Buto Ijo_21
+  - first:
+      213: 5917610402047233173
+    second: Buto Ijo_22
+  - first:
+      213: -1685553411106172403
+    second: Buto Ijo_23
+  - first:
+      213: -8567390511606336774
+    second: Buto Ijo_24
+  - first:
+      213: -3923201488578582949
+    second: Buto Ijo_25
+  - first:
+      213: -2524463481033976685
+    second: Buto Ijo_26
+  - first:
+      213: 8760071648688693010
+    second: Buto Ijo_27
+  - first:
+      213: 1588939388949167029
+    second: Buto Ijo_28
+  - first:
+      213: -7660958057552332348
+    second: Buto Ijo_29
+  - first:
+      213: 5778028652263277435
+    second: Buto Ijo_30
+  - first:
+      213: 8215123117698630966
+    second: Buto Ijo_31
+  - first:
+      213: 5434532540635430877
+    second: Buto Ijo_32
+  - first:
+      213: 5765615427452426122
+    second: Buto Ijo_33
+  - first:
+      213: -6893653480188221571
+    second: Buto Ijo_34
+  - first:
+      213: 195948209311234669
+    second: Buto Ijo_35
+  - first:
+      213: -8362916118142337751
+    second: Buto Ijo_36
+  - first:
+      213: 8786869227878596098
+    second: Buto Ijo_37
+  - first:
+      213: -6786264813880351563
+    second: Buto Ijo_38
+  - first:
+      213: 3271277630617838424
+    second: Buto Ijo_39
+  - first:
+      213: -3205661520725645121
+    second: Buto Ijo_40
+  - first:
+      213: 7864557870881658975
+    second: Buto Ijo_41
+  - first:
+      213: 4853669393410575801
+    second: Buto Ijo_42
+  - first:
+      213: 6426268992426219789
+    second: Buto Ijo_43
+  - first:
+      213: -27700942250858942
+    second: Buto Ijo_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buto Ijo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3567
+        width: 53
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178ef8f5f730cedc0800000000000000
+      internalID: -3608505355831613327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3567
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530627272da96f3f0800000000000000
+      internalID: -867335649568333771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3567
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4b4216dfb68c00800000000000000
+      internalID: 902619701485194904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3567
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0488343c0f06d330800000000000000
+      internalID: 3735189486040548362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_4
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3492
+        width: 191
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd088822bbb6170800000000000000
+      internalID: 8172831705787325941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3492
+        width: 167
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a27f82eec1150c0800000000000000
+      internalID: -4588854736098743758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_6
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3492
+        width: 191
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2935dc7b804b4560800000000000000
+      internalID: 7298998588923001132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_7
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3492
+        width: 208
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a049b6d7621a5a010800000000000000
+      internalID: 1199542062449136650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3210
+        width: 156
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07e498923f98f2a0800000000000000
+      internalID: -6703433005683906806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3210
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea0cfc2e796ab20800000000000000
+      internalID: 3145368390168784590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3210
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0122495d9bffbaf90800000000000000
+      internalID: -6941173227044199920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3210
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b7ceaec38ce57f0800000000000000
+      internalID: -621839534565590127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_12
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 3138
+        width: 152
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7979fc6274fee0420800000000000000
+      internalID: 2598277123912210327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_13
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 3138
+        width: 167
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8e5cc1b991a0760800000000000000
+      internalID: 7424775089667041507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_14
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3138
+        width: 191
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6906d20e3b5996620800000000000000
+      internalID: 2767908045788635286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_15
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 3138
+        width: 221
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610595ff04862df50800000000000000
+      internalID: 6904695807083630614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_16
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3138
+        width: 191
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0eb7e4aab0ac5b0800000000000000
+      internalID: -5347448781459955499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_17
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 3138
+        width: 169
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c346d7d598064a20800000000000000
+      internalID: 3046131637627012039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2853
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edde0139a01d1e20800000000000000
+      internalID: 3322830418927869414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2853
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f1abd62985be240800000000000000
+      internalID: 4822045211959631766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2853
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149ffea6e17800020800000000000000
+      internalID: 2305991573926574401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2853
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1e2414fb739470800000000000000
+      internalID: 8400194018216909950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2853
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c8e2dce439f1250800000000000000
+      internalID: 5917610402047233173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2853
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0291116a16bb98e0800000000000000
+      internalID: -1685553411106172403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_24
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2781
+        width: 215
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2f6afb8b38a1980800000000000000
+      internalID: -8567390511606336774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_25
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2781
+        width: 182
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b566dfa380dfd89c0800000000000000
+      internalID: -3923201488578582949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_26
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2781
+        width: 254
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3941684d6dd47fcd0800000000000000
+      internalID: -2524463481033976685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_27
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2781
+        width: 200
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f5f0b60c6029970800000000000000
+      internalID: 8760071648688693010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2502
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbf0f7a4fb0d0610800000000000000
+      internalID: 1588939388949167029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2502
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c93d647c3fcea590800000000000000
+      internalID: -7660958057552332348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2502
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b738e28227eaf2050800000000000000
+      internalID: 5778028652263277435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2502
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c68033faf10270800000000000000
+      internalID: 8215123117698630966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_32
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2424
+        width: 191
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf30e46d865b6b40800000000000000
+      internalID: 5434532540635430877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_33
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2424
+        width: 209
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8750d80fa4930050800000000000000
+      internalID: 5765615427452426122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_34
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2424
+        width: 221
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77eeb41fa2d450a0800000000000000
+      internalID: -6893653480188221571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_35
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2424
+        width: 206
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6abe52bbd528b200800000000000000
+      internalID: 195948209311234669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2143
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dbcb36914f0fb80800000000000000
+      internalID: -8362916118142337751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2143
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb387020b31f970800000000000000
+      internalID: 8786869227878596098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2142
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4ede06b1852d1a0800000000000000
+      internalID: -6786264813880351563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_39
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2145
+        width: 65
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85368ae4ca9e56d20800000000000000
+      internalID: 3271277630617838424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2142
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8620bc4d33383d0800000000000000
+      internalID: -3205661520725645121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_41
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2085
+        width: 191
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58576127b5842d60800000000000000
+      internalID: 7864557870881658975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_42
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2085
+        width: 191
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4c63f892bb5340800000000000000
+      internalID: 4853669393410575801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_43
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2085
+        width: 191
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d091cacc991be2950800000000000000
+      internalID: 6426268992426219789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buto Ijo_44
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 2085
+        width: 209
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246a139c3269d9ff0800000000000000
+      internalID: -27700942250858942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

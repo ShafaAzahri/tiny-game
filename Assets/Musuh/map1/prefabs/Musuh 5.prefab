@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7932386419004549783}
   - component: {fileID: 316885493872202773}
   - component: {fileID: 6498604522428023431}
+  - component: {fileID: 5273219633401661689}
   m_Layer: 0
   m_Name: Musuh 5
   m_TagString: Musuh
@@ -206,3 +207,27 @@ MonoBehaviour:
   projectileSpeed: 10
   projectileDamage: 5
   maxHealth: 100
+--- !u!114 &5273219633401661689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115013357133960760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82afb43f63e0049469f9b50076ce1ca5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  attackCooldown: 0.25
+  attackRange: 2
+  maxXDistance: 6
+  useXDistanceLimit: 1
+  showXDistanceGizmo: 1
+  minY: -3
+  maxY: 3
+  minX: -8
+  maxX: 8
+  maxHealth: 50
+  attackDamage: 10

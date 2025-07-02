@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: 802b5e49a193682428a05f36d4232dd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5598201728275715501
+    second: BlueSkaleton_0
+  - first:
+      213: -3277495593847731739
+    second: BlueSkaleton_1
+  - first:
+      213: 7177198175231525570
+    second: BlueSkaleton_2
+  - first:
+      213: 3275425865348778292
+    second: BlueSkaleton_3
+  - first:
+      213: 1428172824430866468
+    second: BlueSkaleton_4
+  - first:
+      213: -5603748052759471494
+    second: BlueSkaleton_5
+  - first:
+      213: -4849475670410190162
+    second: BlueSkaleton_6
+  - first:
+      213: 7689619141037676853
+    second: BlueSkaleton_7
+  - first:
+      213: -1621655400776278506
+    second: BlueSkaleton_8
+  - first:
+      213: -1828283621198237675
+    second: BlueSkaleton_9
+  - first:
+      213: 3600901267513765741
+    second: BlueSkaleton_10
+  - first:
+      213: 1204222423834637262
+    second: BlueSkaleton_11
+  - first:
+      213: 7371696580001776369
+    second: BlueSkaleton_12
+  - first:
+      213: 312847676607104056
+    second: BlueSkaleton_13
+  - first:
+      213: 2974403551942031144
+    second: BlueSkaleton_14
+  - first:
+      213: 2348411194603242321
+    second: BlueSkaleton_15
+  - first:
+      213: 8197136563601339979
+    second: BlueSkaleton_16
+  - first:
+      213: -9017656577880155850
+    second: BlueSkaleton_17
+  - first:
+      213: -8212934541149621875
+    second: BlueSkaleton_18
+  - first:
+      213: 5765283018974481860
+    second: BlueSkaleton_19
+  - first:
+      213: 5740966864201220964
+    second: BlueSkaleton_20
+  - first:
+      213: 5013689832067395255
+    second: BlueSkaleton_21
+  - first:
+      213: -554516890858003650
+    second: BlueSkaleton_22
+  - first:
+      213: -8681024938833106654
+    second: BlueSkaleton_23
+  - first:
+      213: 3178492904011554230
+    second: BlueSkaleton_24
+  - first:
+      213: -3956983034514178268
+    second: BlueSkaleton_25
+  - first:
+      213: 2025801900571556105
+    second: BlueSkaleton_26
+  - first:
+      213: 1543105204030235357
+    second: BlueSkaleton_27
+  - first:
+      213: -1505203643607675074
+    second: BlueSkaleton_28
+  - first:
+      213: 517572364620300563
+    second: BlueSkaleton_29
+  - first:
+      213: -1397552535019732444
+    second: BlueSkaleton_30
+  - first:
+      213: 7276240650232586229
+    second: BlueSkaleton_31
+  - first:
+      213: 1043957233676748722
+    second: BlueSkaleton_32
+  - first:
+      213: 8337566473468834190
+    second: BlueSkaleton_33
+  - first:
+      213: -6763171379829064800
+    second: BlueSkaleton_34
+  - first:
+      213: 4881221025864447681
+    second: BlueSkaleton_35
+  - first:
+      213: 937504438903622424
+    second: BlueSkaleton_36
+  - first:
+      213: 8775458894955085740
+    second: BlueSkaleton_37
+  - first:
+      213: -7503663926120392490
+    second: BlueSkaleton_38
+  - first:
+      213: 5006072856080163805
+    second: BlueSkaleton_39
+  - first:
+      213: -3831678736673862252
+    second: BlueSkaleton_40
+  - first:
+      213: -4080633567351400317
+    second: BlueSkaleton_41
+  - first:
+      213: 4296666987387281096
+    second: BlueSkaleton_42
+  - first:
+      213: 5161970925677736082
+    second: BlueSkaleton_43
+  - first:
+      213: 2511423855940386961
+    second: BlueSkaleton_44
+  - first:
+      213: 2331670451388815395
+    second: BlueSkaleton_45
+  - first:
+      213: -1837912684609064345
+    second: BlueSkaleton_46
+  - first:
+      213: 6958875648819846112
+    second: BlueSkaleton_47
+  - first:
+      213: 3653484032610923293
+    second: BlueSkaleton_48
+  - first:
+      213: -5789220803966170502
+    second: BlueSkaleton_49
+  - first:
+      213: 1548989719769572740
+    second: BlueSkaleton_50
+  - first:
+      213: -1564862487948441394
+    second: BlueSkaleton_51
+  - first:
+      213: 3670979664234670680
+    second: BlueSkaleton_52
+  - first:
+      213: 2101449995613203550
+    second: BlueSkaleton_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueSkaleton_0
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3504
+        width: 214
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51ad2bfcec0bd40800000000000000
+      internalID: 5598201728275715501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3504
+        width: 214
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e94ccf4f1ff382d0800000000000000
+      internalID: -3277495593847731739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_2
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 3503
+        width: 213
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2c145c6b78a9360800000000000000
+      internalID: 7177198175231525570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_3
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 3502
+        width: 213
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4398d387876a47d20800000000000000
+      internalID: 3275425865348778292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_4
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3657
+        width: 23
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4207116fd93e1d310800000000000000
+      internalID: 1428172824430866468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3513
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a1c7006dc7b32b0800000000000000
+      internalID: -5603748052759471494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3513
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22d46429333bcb0800000000000000
+      internalID: -4849475670410190162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3513
+        width: 40
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539589f0ed307ba60800000000000000
+      internalID: 7689619141037676853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3513
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed2a04109be79e0800000000000000
+      internalID: -1621655400776278506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3164
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51070d1bbb1a0a6e0800000000000000
+      internalID: -1828283621198237675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3164
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f6969df98f8f130800000000000000
+      internalID: 3600901267513765741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3164
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3393b0ae146b010800000000000000
+      internalID: 1204222423834637262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3164
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2c7fa8bf68d4660800000000000000
+      internalID: 7371696580001776369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3155
+        width: 214
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83409f8ed45775400800000000000000
+      internalID: 312847676607104056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_14
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3155
+        width: 214
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8273a2c7544374920800000000000000
+      internalID: 2974403551942031144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3155
+        width: 214
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15380e00a8b379020800000000000000
+      internalID: 2348411194603242321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_16
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3155
+        width: 214
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f2d8364412c170800000000000000
+      internalID: 8197136563601339979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_17
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 3155
+        width: 217
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6391df8be19dad280800000000000000
+      internalID: -9017656577880155850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_18
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3155
+        width: 214
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81bd3f7c8bc50e80800000000000000
+      internalID: -8212934541149621875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2814
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdc0972c56620050800000000000000
+      internalID: 5765283018974481860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2814
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463800032f20caf40800000000000000
+      internalID: 5740966864201220964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2814
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be6d5ea654349540800000000000000
+      internalID: 5013689832067395255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2814
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33647263d5fd48f0800000000000000
+      internalID: -554516890858003650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 2814
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229ab8aefcdc68780800000000000000
+      internalID: -8681024938833106654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_24
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2814
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd55b0b4764c1c20800000000000000
+      internalID: 3178492904011554230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2805
+        width: 214
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ff88525e8f519c0800000000000000
+      internalID: -3956983034514178268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_26
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2805
+        width: 214
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f0ec68181d1c10800000000000000
+      internalID: 2025801900571556105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_27
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2805
+        width: 213
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd26741e1063a6510800000000000000
+      internalID: 1543105204030235357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_28
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2805
+        width: 213
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0424d2417c1be0800000000000000
+      internalID: -1505203643607675074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_29
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2805
+        width: 217
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31180cac259ce2700800000000000000
+      internalID: 517572364620300563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_30
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2805
+        width: 214
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422c33bbf55ea9ce0800000000000000
+      internalID: -1397552535019732444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2470
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffde59f1566af460800000000000000
+      internalID: 7276240650232586229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2470
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7800aa291ec7e00800000000000000
+      internalID: 1043957233676748722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2470
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81f056888cf4b370800000000000000
+      internalID: 8337566473468834190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2470
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab333e76736422a0800000000000000
+      internalID: -6763171379829064800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2461
+        width: 214
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c671d449a49db340800000000000000
+      internalID: 4881221025864447681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_36
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2461
+        width: 216
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bc330f15fa20d00800000000000000
+      internalID: 937504438903622424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_37
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2461
+        width: 213
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caff6dede51b8c970800000000000000
+      internalID: 8775458894955085740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_38
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2458
+        width: 214
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85ea15a61add790800000000000000
+      internalID: -7503663926120392490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_39
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2458
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd322624db4297540800000000000000
+      internalID: 5006072856080163805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_40
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 2461
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d03277d7423dac0800000000000000
+      internalID: -3831678736673862252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_41
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2461
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3881c7ff36dae57c0800000000000000
+      internalID: -4080633567351400317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_42
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2461
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cedd5d3cd3d0ab30800000000000000
+      internalID: 4296666987387281096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_43
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 2460
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2907ae5253103a740800000000000000
+      internalID: 5161970925677736082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_44
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 2458
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c4cdd0be5ad220800000000000000
+      internalID: 2511423855940386961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2120
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3281e4cfbe1cb5020800000000000000
+      internalID: 2331670451388815395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2120
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76231b9a62c6e76e0800000000000000
+      internalID: -1837912684609064345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2120
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebd50c6884e29060800000000000000
+      internalID: 6958875648819846112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2120
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f554ee58c3b230800000000000000
+      internalID: 3653484032610923293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2120
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8b45f95e88afa0800000000000000
+      internalID: -5789220803966170502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_50
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2120
+        width: 214
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485e89771fd1f7510800000000000000
+      internalID: 1548989719769572740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_51
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2112
+        width: 214
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8cf73bbdd784ae0800000000000000
+      internalID: -1564862487948441394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2109
+        width: 214
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ae3601e80f1f230800000000000000
+      internalID: 3670979664234670680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueSkaleton_53
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2109
+        width: 214
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c65c513a9d92d10800000000000000
+      internalID: 2101449995613203550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: a1a9228b613bcee4a89e122e3a1d723f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1716925309459300664
+    second: msuhSlime_0
+  - first:
+      213: 252624635098703849
+    second: msuhSlime_1
+  - first:
+      213: 4954542279282546970
+    second: msuhSlime_2
+  - first:
+      213: -1747122633963822481
+    second: msuhSlime_3
+  - first:
+      213: -6948960647403954633
+    second: msuhSlime_4
+  - first:
+      213: 6039879406049439958
+    second: msuhSlime_5
+  - first:
+      213: 8701437471214188355
+    second: msuhSlime_6
+  - first:
+      213: -247731416713535185
+    second: msuhSlime_7
+  - first:
+      213: -76055643062544179
+    second: msuhSlime_8
+  - first:
+      213: -639484655101692260
+    second: msuhSlime_9
+  - first:
+      213: 7658530575886838313
+    second: msuhSlime_10
+  - first:
+      213: 4649885122316598742
+    second: msuhSlime_11
+  - first:
+      213: 6820384778093122492
+    second: msuhSlime_12
+  - first:
+      213: 6417383184865340124
+    second: msuhSlime_13
+  - first:
+      213: 2524699399618484621
+    second: msuhSlime_14
+  - first:
+      213: 567980921468581268
+    second: msuhSlime_15
+  - first:
+      213: 2966312222296791363
+    second: msuhSlime_16
+  - first:
+      213: -508626134399128784
+    second: msuhSlime_17
+  - first:
+      213: -913838461806163716
+    second: msuhSlime_18
+  - first:
+      213: -113127396422196208
+    second: msuhSlime_19
+  - first:
+      213: 7469706666407670119
+    second: msuhSlime_20
+  - first:
+      213: -374312594327258964
+    second: msuhSlime_21
+  - first:
+      213: 8333991627809864599
+    second: msuhSlime_22
+  - first:
+      213: -3450670783999177891
+    second: msuhSlime_23
+  - first:
+      213: 1584071628660786550
+    second: msuhSlime_24
+  - first:
+      213: 3264209870764872121
+    second: msuhSlime_25
+  - first:
+      213: 5587206905658894446
+    second: msuhSlime_26
+  - first:
+      213: 2458155558967118355
+    second: msuhSlime_27
+  - first:
+      213: 8347262487575448606
+    second: msuhSlime_28
+  - first:
+      213: 3809204873650917182
+    second: msuhSlime_29
+  - first:
+      213: 3380115194511272161
+    second: msuhSlime_30
+  - first:
+      213: -2604835341033092028
+    second: msuhSlime_31
+  - first:
+      213: -2557356084691025801
+    second: msuhSlime_32
+  - first:
+      213: -5001940325146117709
+    second: msuhSlime_33
+  - first:
+      213: 5192834312086169355
+    second: msuhSlime_34
+  - first:
+      213: -1781303548201885942
+    second: msuhSlime_35
+  - first:
+      213: -654917461738598852
+    second: msuhSlime_36
+  - first:
+      213: 6924812782328113
+    second: msuhSlime_37
+  - first:
+      213: 454156096092033951
+    second: msuhSlime_38
+  - first:
+      213: -4629243145448623619
+    second: msuhSlime_39
+  - first:
+      213: -7935228450104311286
+    second: msuhSlime_40
+  - first:
+      213: -882261731949802888
+    second: msuhSlime_41
+  - first:
+      213: -8634438523613550669
+    second: msuhSlime_42
+  - first:
+      213: 4554179966188974783
+    second: msuhSlime_43
+  - first:
+      213: -1717122927129237360
+    second: msuhSlime_44
+  - first:
+      213: 6283771805906073177
+    second: msuhSlime_45
+  - first:
+      213: 5415994382793130188
+    second: msuhSlime_46
+  - first:
+      213: -3778828323222967660
+    second: msuhSlime_47
+  - first:
+      213: 7573704520636855833
+    second: msuhSlime_48
+  - first:
+      213: -329492364792816182
+    second: msuhSlime_49
+  - first:
+      213: 6137763180495271
+    second: msuhSlime_50
+  - first:
+      213: 1929102413432442152
+    second: msuhSlime_51
+  - first:
+      213: -6699345730080261210
+    second: msuhSlime_52
+  - first:
+      213: 536564420967399283
+    second: msuhSlime_53
+  - first:
+      213: -7552527305953093553
+    second: msuhSlime_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: msuhSlime_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3518
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cefcc717814c28e0800000000000000
+      internalID: -1716925309459300664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3518
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7229464c0818300800000000000000
+      internalID: 252624635098703849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3518
+        width: 30
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a195a45e3f112c440800000000000000
+      internalID: 4954542279282546970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3518
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62aa879839f0c7e0800000000000000
+      internalID: -1747122633963822481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 3517
+        width: 232
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e915dbb15509f90800000000000000
+      internalID: -6948960647403954633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3515
+        width: 212
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d036c3b156f1d350800000000000000
+      internalID: 6039879406049439958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_6
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 3516
+        width: 254
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347bef22747b1c870800000000000000
+      internalID: 8701437471214188355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_7
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 3544
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21e51bc691ef8cf0800000000000000
+      internalID: -247731416713535185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_8
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3518
+        width: 247
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d71cabcbc1fef0800000000000000
+      internalID: -76055643062544179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3094
+        width: 213
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96b95528181027f0800000000000000
+      internalID: -639484655101692260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_10
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3095
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae33d6bf0984a60800000000000000
+      internalID: 7658530575886838313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_11
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3093
+        width: 756
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddfd02f1e5b78040800000000000000
+      internalID: 4649885122316598742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_12
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 3269
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3d8b9d1dfd6ae50800000000000000
+      internalID: 6820384778093122492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3096
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaa67181002f0950800000000000000
+      internalID: 6417383184865340124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3096
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d6ee3ab8890320800000000000000
+      internalID: 2524699399618484621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 3096
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495755783afd1e700800000000000000
+      internalID: 567980921468581268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2675
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34956eeff357a2920800000000000000
+      internalID: 2966312222296791363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2675
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03be8afb93ff0f8f0800000000000000
+      internalID: -508626134399128784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2675
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf844fdb2c46153f0800000000000000
+      internalID: -913838461806163716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2675
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014e3e97b371e6ef0800000000000000
+      internalID: -113127396422196208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2675
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b89b03aab9a760800000000000000
+      internalID: 7469706666407670119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2671
+        width: 225
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83b2cbdac2ecaf0800000000000000
+      internalID: -374312594327258964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_22
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2672
+        width: 318
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bbfa8ea3948a370800000000000000
+      internalID: 8333991627809864599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_23
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2671
+        width: 344
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b09e25431cc10d0800000000000000
+      internalID: -3450670783999177891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_24
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2671
+        width: 127
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c915e0c0cbf510800000000000000
+      internalID: 1584071628660786550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_25
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2672
+        width: 274
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1934b359dcc4d20800000000000000
+      internalID: 3264209870764872121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2256
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e686862141fb98d40800000000000000
+      internalID: 5587206905658894446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2256
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a03eef47f1d1220800000000000000
+      internalID: 2458155558967118355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2256
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cc0eab10f67d370800000000000000
+      internalID: 8347262487575448606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_29
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2257
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f46aa86a30dd430800000000000000
+      internalID: 3809204873650917182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2256
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8aebc5cd498ee20800000000000000
+      internalID: 3380115194511272161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2256
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc65fee04c9dbd0800000000000000
+      internalID: -2604835341033092028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_32
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2260
+        width: 212
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770cecfb032728cd0800000000000000
+      internalID: -2557356084691025801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_33
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2260
+        width: 209
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9b6f396c9859ab0800000000000000
+      internalID: -5001940325146117709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_34
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2260
+        width: 339
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b072b554b47a01840800000000000000
+      internalID: 5192834312086169355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_35
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2260
+        width: 352
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f98445cd98747e0800000000000000
+      internalID: -1781303548201885942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1916
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eced7d90449e6f0800000000000000
+      internalID: -654917461738598852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1916
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139d60e941a981000800000000000000
+      internalID: 6924812782328113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1916
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d42c209c7d4600800000000000000
+      internalID: 454156096092033951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_39
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1916
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17f90d2ef91cfb0800000000000000
+      internalID: -4629243145448623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1937
+        width: 196
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0285fb64c760e190800000000000000
+      internalID: -7935228450104311286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_41
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1937
+        width: 182
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a063411a391c3f0800000000000000
+      internalID: -882261731949802888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_42
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1937
+        width: 177
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e015f8ef4c2880800000000000000
+      internalID: -8634438523613550669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_43
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1937
+        width: 193
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f4e7dc82b33f30800000000000000
+      internalID: 4554179966188974783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1561
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09868c4abcd8b28e0800000000000000
+      internalID: -1717122927129237360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_45
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1561
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95675a42a21743750800000000000000
+      internalID: 6283771805906073177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1561
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc045eb223a792b40800000000000000
+      internalID: 5415994382793130188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1561
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2c1f39a7ee8bc0800000000000000
+      internalID: -3778828323222967660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_48
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1585
+        width: 191
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916745262243b1960800000000000000
+      internalID: 7573704520636855833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_49
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1615
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd1250a0786d6bf0800000000000000
+      internalID: -329492364792816182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_50
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1585
+        width: 196
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c61a534ec51000800000000000000
+      internalID: 6137763180495271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_51
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1585
+        width: 206
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d4df79c6c85ca10800000000000000
+      internalID: 1929102413432442152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_52
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1585
+        width: 214
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab390b9d842703a0800000000000000
+      internalID: -6699345730080261210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_53
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1585
+        width: 222
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fffde7f72427700800000000000000
+      internalID: 536564420967399283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: msuhSlime_54
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1585
+        width: 219
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f485a342e68003790800000000000000
+      internalID: -7552527305953093553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -22,6 +22,11 @@ public class MovementMusuh : MonoBehaviour
     [SerializeField] private float maxHealth = 50f;   // Maksimum darah musuh
     [SerializeField] private float attackDamage = 10f; // Damage yang diberikan ke player
 
+    [Header("Penghindaran Musuh Lain")]
+    [SerializeField] private LayerMask enemyLayer;
+    [SerializeField] private float avoidanceRadius = 1.5f; // Jarak minimum antar musuh
+    [SerializeField] private float avoidanceStrength = 2f;  // Kekuatan penghindaran
+
     private Rigidbody2D rb;
     private Animator anim;
     private Vector3 startScale;
@@ -146,52 +151,68 @@ public class MovementMusuh : MonoBehaviour
     }
 
     private void ChasePlayer()
+{
+    float distanceToPlayer = Vector2.Distance(transform.position, player.position);
+
+    if (distanceToPlayer > attackRange)
     {
-        // Tentukan jarak antara musuh dan pemain
-        float distanceToPlayer = Vector2.Distance(transform.position, player.position);
+        Vector2 direction = (player.position - transform.position).normalized;
 
-        // Jika jarak ke pemain lebih besar dari jangkauan serang, musuh akan mengejar
-        if (distanceToPlayer > attackRange)
+        // ======== PENGHINDARAN MUSUH ========
+        Collider2D[] nearbyEnemies = Physics2D.OverlapCircleAll(transform.position, avoidanceRadius, enemyLayer);
+        Vector2 avoidanceDirection = Vector2.zero;
+
+        foreach (Collider2D col in nearbyEnemies)
         {
-            // Tentukan arah menuju pemain
-            Vector2 direction = (player.position - transform.position).normalized;
-            rb.linearVelocity = direction * moveSpeed;  // Musuh bergerak ke arah pemain
+            if (col.gameObject != this.gameObject)
+            {
+                Vector2 away = (Vector2)(transform.position - col.transform.position);
+                float distance = away.magnitude;
 
-            // Gerakan vertikal (atas/bawah) agar musuh bisa bergerak di arah Y
-            float verticalDirection = player.position.y - transform.position.y; // Hitung jarak vertikal
-            if (Mathf.Abs(verticalDirection) > 0.1f) // Cek apakah musuh harus bergerak ke atas/bawah
-            {
-                float verticalMove = verticalDirection > 0 ? 1 : -1; // Tentukan arah atas/bawah
-                Vector3 pos = transform.position;
-                // Batasi pergerakan vertikal di antara minY dan maxY
-                pos.y = Mathf.Clamp(pos.y + verticalMove * moveSpeed * Time.deltaTime, minY, maxY);
-                transform.position = pos;
-            }
-
-            // Flip sprite berdasarkan arah horizontal (kanan/kiri)
-            if (direction.x > 0.01f && transform.localScale.x < 0)
-            {
-                // Arahkan musuh ke kanan
-                transform.localScale = new Vector3(Mathf.Abs(startScale.x), startScale.y, startScale.z);  // Menghadap kanan
-            }
-            else if (direction.x < -0.01f && transform.localScale.x > 0)
-            {
-                // Arahkan musuh ke kiri
-                transform.localScale = new Vector3(-Mathf.Abs(startScale.x), startScale.y, startScale.z); // Menghadap kiri
-            }
-
-            // Set animasi gerak
-            if (anim != null)
-            {
-                anim.SetBool("isMoving", true);  // Pastikan parameter "isMoving" ada di Animator
+                if (distance > 0)
+                {
+                    avoidanceDirection += away.normalized / distance; // Semakin dekat, semakin kuat menghindar
+                }
             }
         }
-        else
+
+        // Gabungkan arah ke pemain dan arah menghindar musuh lain
+        Vector2 finalDirection = direction + avoidanceDirection * avoidanceStrength;
+        finalDirection.Normalize();
+
+        rb.linearVelocity = finalDirection * moveSpeed;
+
+        // Pergerakan vertikal tetap dibatasi arena
+        float verticalDirection = player.position.y - transform.position.y;
+        if (Mathf.Abs(verticalDirection) > 0.1f)
         {
-            // Jika sudah cukup dekat dengan pemain, berhenti bergerak dan serang
-            StopMoving();
+            float verticalMove = verticalDirection > 0 ? 1 : -1;
+            Vector3 pos = transform.position;
+            pos.y = Mathf.Clamp(pos.y + verticalMove * moveSpeed * Time.deltaTime, minY, maxY);
+            transform.position = pos;
+        }
+
+        // Flip sprite
+        if (finalDirection.x > 0.01f && transform.localScale.x < 0)
+        {
+            transform.localScale = new Vector3(Mathf.Abs(startScale.x), startScale.y, startScale.z);
+        }
+        else if (finalDirection.x < -0.01f && transform.localScale.x > 0)
+        {
+            transform.localScale = new Vector3(-Mathf.Abs(startScale.x), startScale.y, startScale.z);
+        }
+
+        if (anim != null)
+        {
+            anim.SetBool("isMoving", true);
         }
     }
+    else
+    {
+        StopMoving();
+    }
+}
+
 
     private void StopMoving()
     {
@@ -353,6 +374,8 @@ public class MovementMusuh : MonoBehaviour
         // Attack range (merah)
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, avoidanceRadius);
 
         // X Distance limit (hijau) - hanya jika fitur diaktifkan dan ada player
         if (useXDistanceLimit && showXDistanceGizmo && player != null)

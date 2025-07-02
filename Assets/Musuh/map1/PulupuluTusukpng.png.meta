@@ -1,0 +1,1192 @@
+fileFormatVersion: 2
+guid: f5cd58ef5edd1964290ec185cdd000d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5583878700874652770
+    second: PulupuluTusukpng_0
+  - first:
+      213: -831731125245503615
+    second: PulupuluTusukpng_1
+  - first:
+      213: 5311449604410084658
+    second: PulupuluTusukpng_2
+  - first:
+      213: -6907197968819376160
+    second: PulupuluTusukpng_3
+  - first:
+      213: -2960973840690779136
+    second: PulupuluTusukpng_4
+  - first:
+      213: 2137682288994021897
+    second: PulupuluTusukpng_5
+  - first:
+      213: 1564717793835974756
+    second: PulupuluTusukpng_6
+  - first:
+      213: 8849711375284589602
+    second: PulupuluTusukpng_7
+  - first:
+      213: 5955554876728444531
+    second: PulupuluTusukpng_8
+  - first:
+      213: 2250496669831408675
+    second: PulupuluTusukpng_9
+  - first:
+      213: -5151873088073966229
+    second: PulupuluTusukpng_10
+  - first:
+      213: 5849683675238859157
+    second: PulupuluTusukpng_11
+  - first:
+      213: -4941111217546283417
+    second: PulupuluTusukpng_12
+  - first:
+      213: -7722796005071787786
+    second: PulupuluTusukpng_13
+  - first:
+      213: 8679560703408120894
+    second: PulupuluTusukpng_14
+  - first:
+      213: 3420773534255386185
+    second: PulupuluTusukpng_15
+  - first:
+      213: 4906017773424110520
+    second: PulupuluTusukpng_16
+  - first:
+      213: 1441935420965174959
+    second: PulupuluTusukpng_17
+  - first:
+      213: 4569126488183456017
+    second: PulupuluTusukpng_18
+  - first:
+      213: -4768955454024773074
+    second: PulupuluTusukpng_19
+  - first:
+      213: 7212527955285018854
+    second: PulupuluTusukpng_20
+  - first:
+      213: 3833058856423441669
+    second: PulupuluTusukpng_21
+  - first:
+      213: 7193874523161923281
+    second: PulupuluTusukpng_22
+  - first:
+      213: -3930535173893285597
+    second: PulupuluTusukpng_23
+  - first:
+      213: 870034094026092905
+    second: PulupuluTusukpng_24
+  - first:
+      213: 8973951954607684050
+    second: PulupuluTusukpng_25
+  - first:
+      213: -2827460474931723524
+    second: PulupuluTusukpng_26
+  - first:
+      213: -661494988876790621
+    second: PulupuluTusukpng_27
+  - first:
+      213: 3077155489714366594
+    second: PulupuluTusukpng_28
+  - first:
+      213: -6684622681438110174
+    second: PulupuluTusukpng_29
+  - first:
+      213: -3361834810281196794
+    second: PulupuluTusukpng_30
+  - first:
+      213: -2893829421074406987
+    second: PulupuluTusukpng_31
+  - first:
+      213: 8394989199975388794
+    second: PulupuluTusukpng_32
+  - first:
+      213: 6400707557347345227
+    second: PulupuluTusukpng_33
+  - first:
+      213: -1101914737099389943
+    second: PulupuluTusukpng_34
+  - first:
+      213: -1656761865308754971
+    second: PulupuluTusukpng_35
+  - first:
+      213: 7321251542732489269
+    second: PulupuluTusukpng_36
+  - first:
+      213: -2051550714586698975
+    second: PulupuluTusukpng_37
+  - first:
+      213: -7253479066211713708
+    second: PulupuluTusukpng_38
+  - first:
+      213: 4383745116900994669
+    second: PulupuluTusukpng_39
+  - first:
+      213: 2324893160507783209
+    second: PulupuluTusukpng_40
+  - first:
+      213: -367396201863809342
+    second: PulupuluTusukpng_41
+  - first:
+      213: 8632539180706588462
+    second: PulupuluTusukpng_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PulupuluTusukpng_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3438
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e932f7df7e31282b0800000000000000
+      internalID: -5583878700874652770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3438
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871b13c2f81574f0800000000000000
+      internalID: -831731125245503615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3438
+        width: 79
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d8041264f06b940800000000000000
+      internalID: 5311449604410084658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_3
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 3438
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efa8331b04b420a0800000000000000
+      internalID: -6907197968819376160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3438
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce664daf188e6d0800000000000000
+      internalID: -2960973840690779136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_5
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3438
+        width: 223
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902f12647b29aad10800000000000000
+      internalID: 2137682288994021897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3438
+        width: 224
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46083531b8ef6b510800000000000000
+      internalID: 1564717793835974756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_7
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 3438
+        width: 226
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2245298ab9d70da70800000000000000
+      internalID: 8849711375284589602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_8
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 3438
+        width: 230
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3768eb34b9166a250800000000000000
+      internalID: 5955554876728444531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_9
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 3438
+        width: 245
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c208d2cce5b3f10800000000000000
+      internalID: 2250496669831408675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_10
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3438
+        width: 225
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dd471e8bed088b0800000000000000
+      internalID: -5151873088073966229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3133
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59183074f404e2150800000000000000
+      internalID: 5849683675238859157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3133
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b47ad685ad6bb0800000000000000
+      internalID: -4941111217546283417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3133
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8e3e453fd13d490800000000000000
+      internalID: -7722796005071787786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3133
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34a415397ef37870800000000000000
+      internalID: 8679560703408120894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3133
+        width: 224
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e8956c767097f20800000000000000
+      internalID: 3420773534255386185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_16
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3133
+        width: 245
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb62b6fb2da51440800000000000000
+      internalID: 4906017773424110520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_17
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3133
+        width: 288
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faebeab20a8c20410800000000000000
+      internalID: 1441935420965174959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_18
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 3133
+        width: 288
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111c00e255cc86f30800000000000000
+      internalID: 4569126488183456017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2829
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e221135184441ddb0800000000000000
+      internalID: -4768955454024773074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_20
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2831
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8865336fb081460800000000000000
+      internalID: 7212527955285018854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2829
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c844b8b2c13530800000000000000
+      internalID: 3833058856423441669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2828
+        width: 223
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8cc793c6c5d360800000000000000
+      internalID: 7193874523161923281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_23
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2831
+        width: 224
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32999ee851fe379c0800000000000000
+      internalID: -3930535173893285597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_24
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2831
+        width: 224
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96177ec166bf21c00800000000000000
+      internalID: 870034094026092905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_25
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2829
+        width: 224
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d930d5b1c1e98c70800000000000000
+      internalID: 8973951954607684050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2526
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2cc37bda7d2c8d0800000000000000
+      internalID: -2827460474931723524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2526
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a44c47ffc5e1d6f0800000000000000
+      internalID: -661494988876790621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2526
+        width: 38
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288611b4d9044ba20800000000000000
+      internalID: 3077155489714366594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2526
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ebc5f76137b33a0800000000000000
+      internalID: -6684622681438110174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_30
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2526
+        width: 223
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60385a34d0d5851d0800000000000000
+      internalID: -3361834810281196794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_31
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2526
+        width: 224
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b12944497d07d7d0800000000000000
+      internalID: -2893829421074406987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_32
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2526
+        width: 224
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7616c5e23ef08470800000000000000
+      internalID: 8394989199975388794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_33
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2526
+        width: 224
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43c8da6c91e3d850800000000000000
+      internalID: 6400707557347345227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2221
+        width: 143
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044c62826635b0f0800000000000000
+      internalID: -1101914737099389943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2221
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebabd48cdff109e0800000000000000
+      internalID: -1656761865308754971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2221
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532c9db0d7f4a9560800000000000000
+      internalID: 7321251542732489269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_37
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2221
+        width: 223
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b6c52ae7d6783e0800000000000000
+      internalID: -2051550714586698975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_38
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2221
+        width: 224
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45df7b84837765b90800000000000000
+      internalID: -7253479066211713708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_39
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 2221
+        width: 226
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eacbe25f036dc30800000000000000
+      internalID: 4383745116900994669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_40
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2221
+        width: 224
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9283dccf20ea34020800000000000000
+      internalID: 2324893160507783209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_41
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2221
+        width: 224
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c67418d91fb6eaf0800000000000000
+      internalID: -367396201863809342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PulupuluTusukpng_42
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 2221
+        width: 226
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2768afc5a0fcc770800000000000000
+      internalID: 8632539180706588462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

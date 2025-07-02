@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: 755b8ebc7bf2ed244b4f076f37f334a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7258715314586568537
+    second: kupingbesar_0
+  - first:
+      213: 168790869251439070
+    second: kupingbesar_1
+  - first:
+      213: -1640305047917355072
+    second: kupingbesar_2
+  - first:
+      213: -198259535969630812
+    second: kupingbesar_3
+  - first:
+      213: -7267023687092394940
+    second: kupingbesar_4
+  - first:
+      213: 2831309314433061061
+    second: kupingbesar_5
+  - first:
+      213: 9165880685291666947
+    second: kupingbesar_6
+  - first:
+      213: -2926640666415998790
+    second: kupingbesar_7
+  - first:
+      213: -528374967112122224
+    second: kupingbesar_8
+  - first:
+      213: -3682661246672304523
+    second: kupingbesar_9
+  - first:
+      213: -2255615744810081713
+    second: kupingbesar_10
+  - first:
+      213: 5394412808829695897
+    second: kupingbesar_11
+  - first:
+      213: 5558044729883169152
+    second: kupingbesar_12
+  - first:
+      213: 8249033709092747341
+    second: kupingbesar_13
+  - first:
+      213: -6361707471303546244
+    second: kupingbesar_14
+  - first:
+      213: -7702934637158443628
+    second: kupingbesar_15
+  - first:
+      213: -6607389124537361046
+    second: kupingbesar_16
+  - first:
+      213: 4738404262664385601
+    second: kupingbesar_17
+  - first:
+      213: 5621854219770332234
+    second: kupingbesar_18
+  - first:
+      213: 7743797582944422720
+    second: kupingbesar_19
+  - first:
+      213: -3636973396638788312
+    second: kupingbesar_20
+  - first:
+      213: -709934664369505754
+    second: kupingbesar_21
+  - first:
+      213: -3639549984767502216
+    second: kupingbesar_22
+  - first:
+      213: 8489679260102196505
+    second: kupingbesar_23
+  - first:
+      213: 3773393943818783500
+    second: kupingbesar_24
+  - first:
+      213: 79295462353923889
+    second: kupingbesar_25
+  - first:
+      213: 4533226322149319463
+    second: kupingbesar_26
+  - first:
+      213: 2350857784762542699
+    second: kupingbesar_27
+  - first:
+      213: 5979096099669942397
+    second: kupingbesar_28
+  - first:
+      213: 6976712064742986607
+    second: kupingbesar_29
+  - first:
+      213: 4167356414580337131
+    second: kupingbesar_30
+  - first:
+      213: -8592234019546862024
+    second: kupingbesar_31
+  - first:
+      213: 378383557874545321
+    second: kupingbesar_32
+  - first:
+      213: 5179013844809110497
+    second: kupingbesar_33
+  - first:
+      213: -5693263286229608836
+    second: kupingbesar_34
+  - first:
+      213: 8624102581227208417
+    second: kupingbesar_35
+  - first:
+      213: -5041255716046121993
+    second: kupingbesar_36
+  - first:
+      213: -2522254680846042497
+    second: kupingbesar_37
+  - first:
+      213: 3686294406237547883
+    second: kupingbesar_38
+  - first:
+      213: -5687620069754361582
+    second: kupingbesar_39
+  - first:
+      213: -7586704239454785204
+    second: kupingbesar_40
+  - first:
+      213: 4654031658035334386
+    second: kupingbesar_41
+  - first:
+      213: 3644500576676361104
+    second: kupingbesar_42
+  - first:
+      213: 2525521716982417452
+    second: kupingbesar_43
+  - first:
+      213: -7953826486510508449
+    second: kupingbesar_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kupingbesar_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3573
+        width: 53
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ce9bce132cb460800000000000000
+      internalID: 7258715314586568537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3573
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9bf0bb66aa75200800000000000000
+      internalID: 168790869251439070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3573
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1b97ef377c39e0800000000000000
+      internalID: -1640305047917355072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3573
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a54231a004af3df0800000000000000
+      internalID: -198259535969630812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3497
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444228c7578562b90800000000000000
+      internalID: -7267023687092394940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3497
+        width: 215
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0990012d4da4720800000000000000
+      internalID: 2831309314433061061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_6
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3497
+        width: 215
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e7c6c9befb33f70800000000000000
+      internalID: 9165880685291666947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_7
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 3497
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8df05e1db7267d0800000000000000
+      internalID: -2926640666415998790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3214
+        width: 164
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c21154c5daa8f0800000000000000
+      internalID: -528374967112122224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3214
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57600049b1f84ecc0800000000000000
+      internalID: -3682661246672304523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3214
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4221dc4e6172b0e0800000000000000
+      internalID: -2255615744810081713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3214
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9977c1a6eddccda40800000000000000
+      internalID: 5394412808829695897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3142
+        width: 186
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0811b6aeb34222d40800000000000000
+      internalID: 5558044729883169152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_13
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3142
+        width: 191
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4832b204747a7270800000000000000
+      internalID: 8249033709092747341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_14
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3142
+        width: 207
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ae008b2cca6b7a0800000000000000
+      internalID: -6361707471303546244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_15
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 3142
+        width: 225
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955e1862cda91590800000000000000
+      internalID: -7702934637158443628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_16
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3142
+        width: 206
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ddb234996dd44a0800000000000000
+      internalID: -6607389124537361046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_17
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 3142
+        width: 191
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144be4e529132c140800000000000000
+      internalID: 4738404262664385601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2855
+        width: 122
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44017480a6d40e40800000000000000
+      internalID: 5621854219770332234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2855
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b4eef8fde777b60800000000000000
+      internalID: 7743797582944422720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2855
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8259ccb17ffd68dc0800000000000000
+      internalID: -3636973396638788312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2855
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62af4842f2ec526f0800000000000000
+      internalID: -709934664369505754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_22
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2855
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87897af6298bd7dc0800000000000000
+      internalID: -3639549984767502216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2855
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d746b8e4661d570800000000000000
+      internalID: 8489679260102196505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2783
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bcde2bcc9cd5430800000000000000
+      internalID: 3773393943818783500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2783
+        width: 194
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fe7e98dc6b91100800000000000000
+      internalID: 79295462353923889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_26
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2783
+        width: 294
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723292a625149ee30800000000000000
+      internalID: 4533226322149319463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_27
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2783
+        width: 225
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aab3a23bcef9020800000000000000
+      internalID: 2350857784762542699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2506
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7020ca59340af250800000000000000
+      internalID: 5979096099669942397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2506
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63103f98a242d060800000000000000
+      internalID: 6976712064742986607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2506
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a187549c65d930800000000000000
+      internalID: 4167356414580337131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2506
+        width: 65
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee1edcea042c880800000000000000
+      internalID: -8592234019546862024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_32
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2427
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f5f357d9404500800000000000000
+      internalID: 378383557874545321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_33
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2427
+        width: 215
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35daaf6ad8fd740800000000000000
+      internalID: 5179013844809110497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_34
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2427
+        width: 207
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d28394377df0b0800000000000000
+      internalID: -5693263286229608836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_35
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2427
+        width: 216
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeb39cea97fea770800000000000000
+      internalID: 8624102581227208417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2144
+        width: 107
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d92fc2acd90ab0800000000000000
+      internalID: -5041255716046121993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2144
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7afa133bb62ffcd0800000000000000
+      internalID: -2522254680846042497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_38
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2144
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d6c4d4b39582330800000000000000
+      internalID: 3686294406237547883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2144
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219a8ec4ea38111b0800000000000000
+      internalID: -5687620069754361582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_40
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2144
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41f857b0bc96b690800000000000000
+      internalID: -7586704239454785204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_41
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2090
+        width: 201
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc4e968221769040800000000000000
+      internalID: 4654031658035334386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_42
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 2090
+        width: 182
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093308017fdd39230800000000000000
+      internalID: 3644500576676361104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_43
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2090
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28854dee947c0320800000000000000
+      internalID: 2525521716982417452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kupingbesar_44
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2087
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56a272a3f45e9190800000000000000
+      internalID: -7953826486510508449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

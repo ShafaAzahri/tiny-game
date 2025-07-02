@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: 0abf12849ef6f2c49b0215cd705387de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3937070988062765877
+    second: Skalaton_0
+  - first:
+      213: -7627780335344084556
+    second: Skalaton_1
+  - first:
+      213: -639629836992180617
+    second: Skalaton_2
+  - first:
+      213: -8034038910126862840
+    second: Skalaton_3
+  - first:
+      213: 382467760522654343
+    second: Skalaton_4
+  - first:
+      213: -3772937170614914573
+    second: Skalaton_5
+  - first:
+      213: 5061490865338774458
+    second: Skalaton_6
+  - first:
+      213: -1136128369694509586
+    second: Skalaton_7
+  - first:
+      213: -8795672706383332580
+    second: Skalaton_8
+  - first:
+      213: 7329818723113349588
+    second: Skalaton_9
+  - first:
+      213: -1906014091993668208
+    second: Skalaton_10
+  - first:
+      213: 4758015232183347987
+    second: Skalaton_11
+  - first:
+      213: -2897849493105235246
+    second: Skalaton_12
+  - first:
+      213: -3274107891080776729
+    second: Skalaton_13
+  - first:
+      213: 1538450316632770939
+    second: Skalaton_14
+  - first:
+      213: -3829025795623850035
+    second: Skalaton_15
+  - first:
+      213: 6931957417540926136
+    second: Skalaton_16
+  - first:
+      213: 8636632067133547109
+    second: Skalaton_17
+  - first:
+      213: -5223737791138024021
+    second: Skalaton_18
+  - first:
+      213: -5419199970940319520
+    second: Skalaton_19
+  - first:
+      213: -7938770281859882477
+    second: Skalaton_20
+  - first:
+      213: 1230864009672078128
+    second: Skalaton_21
+  - first:
+      213: -4792279600475298083
+    second: Skalaton_22
+  - first:
+      213: -614220420126925527
+    second: Skalaton_23
+  - first:
+      213: 8119760403254366284
+    second: Skalaton_24
+  - first:
+      213: -6146345500075353259
+    second: Skalaton_25
+  - first:
+      213: 2956340679031556452
+    second: Skalaton_26
+  - first:
+      213: 8512766471179461838
+    second: Skalaton_27
+  - first:
+      213: -8524637109485739096
+    second: Skalaton_28
+  - first:
+      213: -3076872483442048949
+    second: Skalaton_29
+  - first:
+      213: -2848445759189439542
+    second: Skalaton_30
+  - first:
+      213: -6916893267285065886
+    second: Skalaton_31
+  - first:
+      213: 1312392353667715585
+    second: Skalaton_32
+  - first:
+      213: -2952700973311135658
+    second: Skalaton_33
+  - first:
+      213: 3660391151370323164
+    second: Skalaton_34
+  - first:
+      213: -7622508460507282356
+    second: Skalaton_35
+  - first:
+      213: 3811292879552653493
+    second: Skalaton_36
+  - first:
+      213: 7395409166511517972
+    second: Skalaton_37
+  - first:
+      213: -7849883655858584754
+    second: Skalaton_38
+  - first:
+      213: 100334208939493113
+    second: Skalaton_39
+  - first:
+      213: -5495382866482780012
+    second: Skalaton_40
+  - first:
+      213: -4203190517916087026
+    second: Skalaton_41
+  - first:
+      213: 7606824889198491122
+    second: Skalaton_42
+  - first:
+      213: -4853343323451263804
+    second: Skalaton_43
+  - first:
+      213: -6894188798913762232
+    second: Skalaton_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skalaton_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3582
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5333af2443943a630800000000000000
+      internalID: 3937070988062765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3581
+        width: 83
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b91b1fd23ea42690800000000000000
+      internalID: -7627780335344084556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3582
+        width: 43
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e075a5d049f17f0800000000000000
+      internalID: -639629836992180617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3582
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ec83a6d2c518090800000000000000
+      internalID: -8034038910126862840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3511
+        width: 221
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782fdfbd66cce4500800000000000000
+      internalID: 382467760522654343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 3511
+        width: 227
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f171a912a5d3abc0800000000000000
+      internalID: -3772937170614914573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_6
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3511
+        width: 221
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3f66600270e3640800000000000000
+      internalID: 5061490865338774458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_7
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3511
+        width: 220
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee57d196449ab30f0800000000000000
+      internalID: -1136128369694509586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_8
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 3634
+        width: 32
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3c67664e7fe580800000000000000
+      internalID: -8795672706383332580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3233
+        width: 165
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1bd2b2b4fb8b560800000000000000
+      internalID: 7329818723113349588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3233
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09524d5284a7c85e0800000000000000
+      internalID: -1906014091993668208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3234
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31baf2605add70240800000000000000
+      internalID: 4758015232183347987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3233
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daaaee4d35c8c7d0800000000000000
+      internalID: -2897849493105235246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_13
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3162
+        width: 221
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3b3d358380092d0800000000000000
+      internalID: -3274107891080776729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_14
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3162
+        width: 153
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79cb73796ca95510800000000000000
+      internalID: 1538450316632770939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_15
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3165
+        width: 128
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf680073519cdac0800000000000000
+      internalID: -3829025795623850035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_16
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 3163
+        width: 136
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba39ae4b82433060800000000000000
+      internalID: 6931957417540926136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_17
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 3165
+        width: 128
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622e313b1b7bd770800000000000000
+      internalID: 8636632067133547109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_18
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 3165
+        width: 151
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba53f6fc72e8187b0800000000000000
+      internalID: -5223737791138024021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2887
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88b4da6522bc4b0800000000000000
+      internalID: -5419199970940319520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2887
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31260547d72d3d190800000000000000
+      internalID: -7938770281859882477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2887
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033315f9b48e41110800000000000000
+      internalID: 1230864009672078128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2887
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a15d08176e7db0800000000000000
+      internalID: -4792279600475298083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2887
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d1b8c38c9d977f0800000000000000
+      internalID: -614220420126925527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2813
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c405241011f2fa070800000000000000
+      internalID: 8119760403254366284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_25
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 2813
+        width: 174
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1039155bc3baa0800000000000000
+      internalID: -6146345500075353259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_26
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 2813
+        width: 166
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46986b82f28070920800000000000000
+      internalID: 2956340679031556452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_27
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2813
+        width: 265
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e182c00c632670800000000000000
+      internalID: 8512766471179461838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2544
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a36df1e6b762b980800000000000000
+      internalID: -8524637109485739096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2544
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40434d37c0cc45d0800000000000000
+      internalID: -3076872483442048949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2544
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbab897ca94878d0800000000000000
+      internalID: -2848445759189439542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2544
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbe2e78324200a0800000000000000
+      internalID: -6916893267285065886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_32
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2468
+        width: 219
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1029d4e64ed863210800000000000000
+      internalID: 1312392353667715585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_33
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2468
+        width: 221
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650f6dddb16e507d0800000000000000
+      internalID: -2952700973311135658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_34
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2468
+        width: 227
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4496ccb525cc230800000000000000
+      internalID: 3660391151370323164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_35
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 2468
+        width: 227
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44cd02e0f8673690800000000000000
+      internalID: -7622508460507282356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2195
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b826bc4eae64e430800000000000000
+      internalID: 3811292879552653493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2195
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41136925475c1a660800000000000000
+      internalID: 7395409166511517972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2195
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43876cc76c9f0390800000000000000
+      internalID: -7849883655858584754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2195
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f688a27e65746100800000000000000
+      internalID: 100334208939493113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_40
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2195
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a682166a7cb3b0800000000000000
+      internalID: -5495382866482780012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_41
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2139
+        width: 221
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d42505e744ba5c0800000000000000
+      internalID: -4203190517916087026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_42
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2139
+        width: 219
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5b64d1feed09960800000000000000
+      internalID: 7606824889198491122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_43
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2139
+        width: 221
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47ca026f575acb0800000000000000
+      internalID: -4853343323451263804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skalaton_44
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 2139
+        width: 219
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ca44a70dbe250a0800000000000000
+      internalID: -6894188798913762232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
